@@ -83,10 +83,37 @@ def getUser(token):
 		handleError()
 	return r.json()
 
+# ------------------------------------------------------
+# ------------------ helper functions ------------------
+# ------------------------------------------------------
+
+# input: user [a user object], name [name of a URL collection]
+# returns: a URL collection object
 def getUrlCollectionByName(user, name):
-	obj = user["user"]["collections"]
-	for item in obj:
+	for item in user["collections"]:
 		if item["name"] == name:
 			return item
 	print("cannot find URL collection with name ["+name+"]")
 	return
+
+# input: obj [a URL collection object]
+# returns: a list of URLs
+def getCollectionUrls(obj):
+	return [item["url"] for item in obj["urls"]]
+
+# input: user [a user object]
+# returns: the total number of URLs for a user
+def getUrlCountTotal(user):
+	c = 0
+	for collection in user["collections"]:
+		c += len(collection["urls"])
+	return c
+
+# input: user [a user object]
+# returns: a mapping of URL collection name and corresponding number of URLs
+def getUrlCountMap(user):
+	m = {}
+	for collection in user["collections"]:
+		m[collection["name"]] = len(collection["urls"])
+	return m
+

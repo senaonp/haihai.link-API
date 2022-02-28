@@ -1,7 +1,11 @@
 # public functions (accessible without credentials)
 from haihai import getWidgetDataLatestCollections, getWidgetDataLatestContributors, getUserPublic
+
 # account functions (requires username and password to be set in config.py)
-from haihai import initializeSession, endSession, getUser, getUrlCollectionByName
+from haihai import initializeSession, endSession, getUser
+
+# helper functions
+from haihai import getUrlCountTotal, getCollectionUrls, getUrlCountMap, getUrlCollectionByName
 
 # --------------------------------------------------
 # -------- haihai.link public api examples ---------
@@ -43,8 +47,20 @@ userUrlCollections = user["user"]["collections"]
 print(userUrlCollections)
 
 # print the user's URL collection with a matching name
-item = getUrlCollectionByName(user, "EXAMPLE_ITEM_NAME")
+item = getUrlCollectionByName(user["user"], "💻 Computer Science")
 print(item)
+
+# print the URLs in a collection object
+urls = getCollectionUrls(item)
+print(urls)
+
+# print the total number of URLs in a user account
+total = getUrlCountTotal(user["user"])
+print(total)
+
+# print the mapping of URL count per collection in a user account
+map = getUrlCountMap(user["user"])
+print(map)
 
 # exit the session
 endSession()
