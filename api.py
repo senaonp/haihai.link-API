@@ -10,13 +10,21 @@ def getWidgetData(endpoint):
 	r = requests.get(domain+endpoint)
 	return r.json()
 
-# public widget data for latest updated URL collections
+# get public widget data for latest updated URL collections
 def getWidgetDataLatestCollections():
 	return getWidgetData("getWidgetDataLatestCollections")
 
-# public widget data for latest contributors
+# get public widget data for latest contributors
 def getWidgetDataLatestContributors():
 	return getWidgetData("getWidgetDataLatestContributors")
+
+# get public widget urls for latest updated URL collections
+def getWidgetUrlsLatestCollections():
+	return ["https://haihai.link/viewCollection/"+item["user"]+"/"+item["name"].replace(" ", "_") for item in getWidgetDataLatestCollections()["data"]]
+
+# get public widget urls for latest contributors	
+def getWidgetUrlsLatestContributors():
+	return ["https://haihai.link/viewUser/"+item["user"] for item in getWidgetDataLatestContributors()["data"]]
 
 # get public information of any haihai.link username
 def getUserPublic(username):

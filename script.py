@@ -1,11 +1,11 @@
 # public functions (accessible without credentials)
-from api import getWidgetDataLatestCollections, getWidgetDataLatestContributors, getUserPublic
+from api import getWidgetDataLatestCollections, getWidgetUrlsLatestCollections, getWidgetDataLatestContributors, getWidgetUrlsLatestContributors, getUserPublic
 
 # account functions (requires username and password to be set in config.py)
 from api import initializeSession, endSession, getUser
 
 # helper functions
-from api import getUrlCountTotal, getCollectionUrls, getUrlCountMap, getUrlCollectionNames, getUrlCollectionByName, getUrlsWithString
+from api import getCollectionUrls, getUrlCountTotal, getUrlCountMap, getUrlCollectionNames, getUrlCollectionByName, getUrlsWithString
 
 # --------------------------------------------------
 # -------- haihai.link public api examples ---------
@@ -28,6 +28,14 @@ print(getWidgetDataLatestCollections())
 # print the latest public contributors
 print("\nattempting to get latest contributors . . .\n")
 print(getWidgetDataLatestContributors())
+
+# print the urls of the latest publicly updated URL collections
+print("\nattempting to get the urls of the latest updated URL collections . . .\n")
+print(getWidgetUrlsLatestCollections())
+
+# print the urls of the latest public contributors
+print("\nattempting to get the urls of the latest contributors . . .\n")
+print(getWidgetUrlsLatestContributors())
 
 # --------------------------------------------------
 # ------------ haihai.link api examples ------------

@@ -16,6 +16,6 @@ There are 2 ways to access data in the API:
   - requires credentials to be setup in `api_config.py`
   - allows access to all data belonging to the configured user account
   - steps to properly start and end an API session:
-    - call initializeSession() to start an API session
+    - call `initializeSession()` to start an API session
     - do stuff
-    - call endSession() to end the API session
+    - call `endSession()` to end the API session
