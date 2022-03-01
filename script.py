@@ -1,11 +1,11 @@
 # public functions (accessible without credentials)
-from haihai import getWidgetDataLatestCollections, getWidgetDataLatestContributors, getUserPublic
+from api import getWidgetDataLatestCollections, getWidgetDataLatestContributors, getUserPublic
 
 # account functions (requires username and password to be set in config.py)
-from haihai import initializeSession, endSession, getUser
+from api import initializeSession, endSession, getUser
 
 # helper functions
-from haihai import getUrlCountTotal, getCollectionUrls, getUrlCountMap, getUrlCollectionByName
+from api import getUrlCountTotal, getCollectionUrls, getUrlCountMap, getUrlCollectionNames, getUrlCollectionByName, getUrlsWithString
 
 # --------------------------------------------------
 # -------- haihai.link public api examples ---------
@@ -46,13 +46,21 @@ print(user)
 userUrlCollections = user["user"]["collections"]
 print(userUrlCollections)
 
+# print the names of a user's URL collections
+names = getUrlCollectionNames(user["user"])
+print(names)
+
 # print the user's URL collection with a matching name
-item = getUrlCollectionByName(user["user"], "💻 Computer Science")
+item = getUrlCollectionByName(user["user"], "⚙️ Systems Design")
 print(item)
 
 # print the URLs in a collection object
 urls = getCollectionUrls(item)
 print(urls)
+
+# print the URLs in a collection object containing a query string
+queriedUrls = getUrlsWithString(item, "microservice")
+print(queriedUrls)
 
 # print the total number of URLs in a user account
 total = getUrlCountTotal(user["user"])
