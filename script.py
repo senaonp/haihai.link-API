@@ -1,5 +1,5 @@
 # public functions (accessible without credentials)
-from api import getWidgetDataLatestCollections, getWidgetUrlsLatestCollections, getWidgetDataLatestContributors, getWidgetUrlsLatestContributors, getUserPublic
+from api import getWidgetDataLatestCollections, getWidgetUrlsLatestCollections, getWidgetDataLatestContributors, getWidgetUrlsLatestContributors, getWebsiteResources, getUserPublic
 
 # account functions (requires username and password to be set in config.py)
 from api import initializeSession, endSession, getUser
@@ -36,6 +36,10 @@ print(getWidgetUrlsLatestCollections())
 # print the urls of the latest public contributors
 print("\nattempting to get the urls of the latest contributors . . .\n")
 print(getWidgetUrlsLatestContributors())
+
+# print the webapp resources
+print("\nattempting to get the webapp resources . . .\n")
+print(getWebsiteResources())
 
 # --------------------------------------------------
 # ------------ haihai.link api examples ------------

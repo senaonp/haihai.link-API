@@ -26,6 +26,10 @@ def getWidgetUrlsLatestCollections():
 def getWidgetUrlsLatestContributors():
 	return ["https://haihai.link/viewUser/"+item["user"] for item in getWidgetDataLatestContributors()["data"]]
 
+# get url collection for the webapp resources
+def getWebsiteResources():
+	return getUrlCollectionByName(getUserPublic("haihai"), "haihai.link")["urls"]
+
 # get public information of any haihai.link username
 def getUserPublic(username):
 	endpoint = domain+"getUserPublic"
