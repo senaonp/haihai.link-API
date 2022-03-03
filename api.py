@@ -102,11 +102,14 @@ def getUrlCollectionByName(user, name):
 		if item["name"] == name:
 			return item
 	print("cannot find URL collection with name ["+name+"]")
-	return
+	return {}
 
 # input: obj [a URL collection object]
 # returns: a list of URLs
 def getCollectionUrls(obj):
+	if not obj or not obj["urls"]:
+		print("cannot find urls in URL collection")
+		return []
 	return [item["url"] for item in obj["urls"]]
 	
 # input: user [a user object]
@@ -130,10 +133,21 @@ def getUrlCountMap(user):
 		m[collection["name"]] = len(collection["urls"])
 	return m
 
+# input: user [a user object]
+# returns: a mapping of URL collection name and it's associated data
+def getUrlCollectionMap(user):
+	m = {}
+	for collection in user["collections"]:
+		m[collection["name"]] = collection
+	return m
+
 # input: obj [a URL collection object], s [query string]
 # returns: a list of url objects containing a matching string in it's attribute values
 def getUrlsWithString(obj, s):
 	r = []
+	if not obj or not obj["urls"]:
+		print("cannot find urls in URL collection")
+		return r
 	for url in obj["urls"]:
 		if s.lower() in "".join(url.values()).lower():
 			r.append(url)

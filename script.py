@@ -5,7 +5,7 @@ from api import getWidgetDataLatestCollections, getWidgetUrlsLatestCollections, 
 from api import initializeSession, endSession, getUser
 
 # helper functions
-from api import getCollectionUrls, getUrlCountTotal, getUrlCountMap, getUrlCollectionNames, getUrlCollectionByName, getUrlsWithString
+from api import getCollectionUrls, getUrlCountTotal, getUrlCountMap, getUrlCollectionMap, getUrlCollectionNames, getUrlCollectionByName, getUrlsWithString
 
 # --------------------------------------------------
 # -------- haihai.link public api examples ---------
@@ -77,6 +77,10 @@ print(total)
 # print the mapping of URL count per collection in a user account
 map = getUrlCountMap(user["user"])
 print(map)
+
+# print the mapping of collection name with it's data
+collectionMap = getUrlCollectionMap(user["user"])
+print(collectionMap)
 
 # exit the session
 endSession()
