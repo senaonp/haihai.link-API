@@ -91,6 +91,24 @@ accounts', 'description': 'online accounts that i use', 'user': 'senaonp'}]}
 
 -----
 
+get the data of latest contributors: `getWidgetDataLatestContributors()`
+
+```
+{'valid': True, 'data': [{'user': 'senaonp'}, {'user': 'haihai'}, {'user': 'isomer'}, {'user': 'HelloKupo'}, {'user': 'Cherry'}, {'user': 'admin'}, 
+{'user': 'planete29'}, {'user': 'stemS'}]}
+```
+
+-----
+
+get the urls of the latest contributors: `getWidgetUrlsLatestContributors()`
+
+```
+['https://haihai.link/viewUser/senaonp', 'https://haihai.link/viewUser/haihai', 'https://haihai.link/viewUser/isomer', 'https://haihai.link/viewUser/HelloKupo', 
+'https://haihai.link/viewUser/Cherry', 'https://haihai.link/viewUser/admin', 'https://haihai.link/viewUser/planete29', 'https://haihai.link/viewUser/stemS']
+```
+
+-----
+
 get the urls of the latest publicly updated URL collections: `getWidgetUrlsLatestCollections()`
 
 ```
