@@ -27,13 +27,30 @@ def divType2(item):
 		urls.append(
 			f"""
 				<tr>
-					<td style='border: 2px solid rgb(50,50,50)'; padding: 5px><a href='{url['url']}'>{url['url']}</a></td>
+					<td style='border: 2px solid rgb(50,50,50); padding: 5px'><a href='{url['url']}'>{url['url']}</a></td>
 					<td style='border: 2px solid rgb(50,50,50); padding: 5px'>{url['urlName']}</td>
 					<td style='border: 2px solid rgb(50,50,50); padding: 5px'>{url['urlDescription']}</td>
 				</tr>
 			""")
 	content += ''.join(urls)+"</table>"
 	return header + content
+
+def divTypeStart():
+	return """
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+		</head>
+		<body style="font-family:arial">
+	"""
+
+def divTypeEnd():
+	return """
+		</body>
+	</html>
+	"""
+
 
 # application logic
 skipAttrs = ['valid']
@@ -42,7 +59,7 @@ for user in users:
 	print(f'generating file for {user}...')
 	data = getUserPublic(user)
 	datafile = open(f"{outputDir}/{user}.html", 'w+', encoding='utf-8')
-	datafile.write('<!DOCTYPE html><html><head><meta charset="UTF-8"></head><body style="font-family:arial">')
+	datafile.write(divTypeStart())
 	for k, v in data.items():
 		if k in skipAttrs:
 			continue
@@ -51,6 +68,6 @@ for user in users:
 				datafile.write(divType2(item))
 			continue
 		datafile.write(divType1(k,v))
-	datafile.write('</body></html>')
+	datafile.write(divTypeEnd())
 	datafile.close()
 	print(f'finished generating file for {user}')
