@@ -42,7 +42,7 @@ for user in users:
 	print(f'generating file for {user}...')
 	data = getUserPublic(user)
 	datafile = open(f"{outputDir}/{user}.html", 'w+', encoding='utf-8')
-	datafile.write('<html><body style="font-family:arial">')
+	datafile.write('<!DOCTYPE html><html><head><meta charset="UTF-8"></head><body style="font-family:arial">')
 	for k, v in data.items():
 		if k in skipAttrs:
 			continue
