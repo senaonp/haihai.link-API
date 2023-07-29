@@ -1,0 +1,3779 @@
+{
+    "name": "senaonp",
+    "description": "i like improving skills and producing stuff",
+    "status": "be healthy and well 🍊",
+    "collections": [
+        {
+            "name": "my websites",
+            "description": "🌐 websites that i maintain",
+            "urls": [
+                {
+                    "url": "https://greentea.moe",
+                    "urlName": "🍵 greentea.moe",
+                    "urlDescription": "personal website"
+                },
+                {
+                    "url": "https://haihai.link",
+                    "urlName": "🔗 haihai.link",
+                    "urlDescription": "a web application for managing URL items"
+                },
+                {
+                    "url": "https://abacus9.com",
+                    "urlName": "🧮 abacus9",
+                    "urlDescription": "an online abacus applet - features soroban, suanpan, and binary"
+                },
+                {
+                    "url": "https://textshift.net",
+                    "urlName": "📄 textshift",
+                    "urlDescription": "an online cipher tool - multiple cipher options and examples"
+                },
+                {
+                    "url": "https://datetime-timer.com",
+                    "urlName": "📅 datetime-timer",
+                    "urlDescription": "calculate / countdown between datetimes - can generate URLs and store timers in browser"
+                },
+                {
+                    "url": "http://senaonp-dev.net/",
+                    "urlName": "🛠️ senaonp-dev",
+                    "urlDescription": "development environment (currently inactive)"
+                }
+            ]
+        },
+        {
+            "name": "online accounts",
+            "description": "💻 online accounts that i use",
+            "urls": [
+                {
+                    "url": "https://github.com/senaonp",
+                    "urlName": "GitHub",
+                    "urlDescription": "💻 for software development"
+                },
+                {
+                    "url": "https://space.bilibili.com/1140086004",
+                    "urlName": " bilibili 哔哩哔哩",
+                    "urlDescription": "📺 for watching video; studying Chinese"
+                },
+                {
+                    "url": "https://www.nicovideo.jp/user/34703118/nicorepo",
+                    "urlName": "niconico 動画",
+                    "urlDescription": "📺 for watching video; studying Japanese"
+                },
+                {
+                    "url": "https://steamcommunity.com/id/senaonp",
+                    "urlName": "Steam",
+                    "urlDescription": "🎮 for PC gaming"
+                },
+                {
+                    "url": "https://connect.garmin.com/modern/profile/564766ea-7f8a-42b4-a0e6-8370969e9f84",
+                    "urlName": "Connect",
+                    "urlDescription": "👟 for exercise"
+                },
+                {
+                    "url": "https://www.pixiv.net/users/7957659",
+                    "urlName": "pixiv",
+                    "urlDescription": "🖌️ for artwork"
+                },
+                {
+                    "url": "https://pawoo.net/web/accounts/2094316",
+                    "urlName": "Pawoo",
+                    "urlDescription": "🔖 for social media"
+                },
+                {
+                    "url": "https://haihai.link/viewUser/senaonpNian",
+                    "urlName": "haihai - senaonpNian",
+                    "urlDescription": "🔗 for favorite content"
+                }
+            ]
+        },
+        {
+            "name": "goals",
+            "description": "📈 long-term stuff to do",
+            "urls": [
+                {
+                    "url": "https://greentea.moe/data/kanban/",
+                    "urlName": "personal kanban",
+                    "urlDescription": "things to do with statuses on each item"
+                },
+                {
+                    "url": "https://www.chinesetest.cn/",
+                    "urlName": "汉语水平考试 (HSK 4)",
+                    "urlDescription": "Chinese language proficiency test | ✅ passed HSK 1, HSK 2, HSK 3"
+                },
+                {
+                    "url": "https://www.jlpt.jp/",
+                    "urlName": "日本語能力試験 (JLPT N3)",
+                    "urlDescription": "Japanese language proficiency test | ✅ passed JLPT N5, JLPT N4"
+                },
+                {
+                    "url": "https://greentea.moe/data/aggregate/distance/",
+                    "urlName": "running",
+                    "urlDescription": "improve long distance running | ✅ 5k - 23:03 | ✅ 10k - 48:56"
+                },
+                {
+                    "url": "https://haihai.link/viewCollection/senaonp/books_queue",
+                    "urlName": "books queue",
+                    "urlDescription": "books that i have read, am currently reading/translating, or in queue"
+                },
+                {
+                    "url": "https://haihai.link/viewCollection/senaonp/coursework_queue",
+                    "urlName": "coursework queue",
+                    "urlDescription": "courses and related tasks that i am taking for self-studies or are in queue"
+                },
+                {
+                    "url": "https://haihai.link/viewCollection/senaonp/shows_queue",
+                    "urlName": "shows queue",
+                    "urlDescription": "shows that i have watched, am currently watching, or in queue"
+                }
+            ]
+        },
+        {
+            "name": "shopping wishlist",
+            "description": "🛒 items that would be nice to have but not necessary",
+            "urls": [
+                {
+                    "urlName": "電撃萌王",
+                    "url": "https://dengekimoeoh.jp/",
+                    "urlDescription": "magazine"
+                },
+                {
+                    "urlName": "Viscaria FL Pro-Line with Tenergy 05",
+                    "url": "https://shop.butterflyonline.com/viscaria-can-rio-racket-series",
+                    "urlDescription": "table tennis blade and rubbers"
+                },
+                {
+                    "url": "https://www.shopnings.com/li-ning-feidian-3-elite-marathon-racing-shoes/",
+                    "urlName": "Li-Ning Feidian 3 Elite",
+                    "urlDescription": "running shoes"
+                },
+                {
+                    "url": "https://jp.yamaha.com/products/contents/guitars_basses/btr_collabo/index.html",
+                    "urlName": "PACIFICA612VⅡFMX",
+                    "urlDescription": "electric guitar"
+                },
+                {
+                    "url": "https://store.yoyorecreation.jp/yoyo/product-287/?sl=ja",
+                    "urlName": "draupnir",
+                    "urlDescription": "bi-metal yoyo"
+                },
+                {
+                    "url": "https://coros.com/pace2",
+                    "urlName": "COROS PACE 2",
+                    "urlDescription": "GPS sport watch"
+                },
+                {
+                    "url": "https://yostarshop.com/view/item/000000000541?category_page_id=arknights_3th",
+                    "urlName": "理性安定剤",
+                    "urlDescription": "ramune candy"
+                },
+                {
+                    "url": "https://onimai.jp/goods/33.html",
+                    "urlName": "みはりのお気に入りぬいぐるみXL",
+                    "urlDescription": "plush"
+                },
+                {
+                    "url": "https://www.ikea.com/us/en/p/milsbo-glass-door-cabinet-white-00396416/#content",
+                    "urlName": "MILSBO",
+                    "urlDescription": "cabinet"
+                },
+                {
+                    "url": "https://www.nature.com/natbiomedeng/subscribe",
+                    "urlName": "Nature Biomedical Engineering",
+                    "urlDescription": "research subscription"
+                },
+                {
+                    "url": "https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq",
+                    "urlName": "Wacom Cintiq",
+                    "urlDescription": "drawing tablet"
+                },
+                {
+                    "url": "https://www.playstation.com/en-us/ps5/",
+                    "urlName": "Playstation 5",
+                    "urlDescription": "video game console"
+                },
+                {
+                    "url": "https://www.anycubic.com/collections/3d-printers/products/photon-m3-plus",
+                    "urlName": "Photon M3 Plus",
+                    "urlDescription": "3D printer"
+                },
+                {
+                    "url": "https://item.jd.com/71918315736.html",
+                    "urlName": "阿米洛（Varmilo）机械键盘",
+                    "urlDescription": "mechanical keyboard"
+                },
+                {
+                    "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3070-3070ti/",
+                    "urlName": "GeForce RTX 3070",
+                    "urlDescription": "graphics card"
+                },
+                {
+                    "url": "https://store.steampowered.com/wishlist/id/senaonp/#sort=order",
+                    "urlName": "Steam wishlist",
+                    "urlDescription": "PC games"
+                },
+                {
+                    "url": "https://espguitars.co.jp/collaborate/16587/",
+                    "urlName": "ESP-ARROW FR TOKO - Morfonica 桐ヶ谷透子 モデル",
+                    "urlDescription": "electric guitar"
+                },
+                {
+                    "url": "https://www.tokyo-marui.co.jp/products/electric/standard/453",
+                    "urlName": "P-90 バージョン・レン ",
+                    "urlDescription": "airsoft AEG"
+                },
+                {
+                    "url": "https://www.nike.com/running/vaporfly",
+                    "urlName": "Nike Vaporfly 2",
+                    "urlDescription": "✅ currently own | running shoes"
+                },
+                {
+                    "url": "https://jp.yamaha.com/products/musical_instruments/guitars_basses/ac_guitars/fg_fgx/index.html",
+                    "urlName": "FG820L",
+                    "urlDescription": "✅ currently own | acoustic guitar"
+                },
+                {
+                    "url": "https://www.nike.com/running/alphafly",
+                    "urlName": "Nike Alphafly",
+                    "urlDescription": "✅ currently own | running shoes"
+                },
+                {
+                    "url": "https://www.asics.com/us/en-us/gel-cumulus-23/p/ANA_1011B012-030.html",
+                    "urlName": "GEL-CUMULUS 23",
+                    "urlDescription": "✅ currently own | running shoes"
+                },
+                {
+                    "url": "https://www.garmin.com/en-US/p/641121",
+                    "urlName": "Garmin Forerunner 45",
+                    "urlDescription": "✅ currently own | GPS sport watch"
+                },
+                {
+                    "url": "https://yostar.store/products/arknights-1st-anniversary-illustration-collection-方舟一周年画册",
+                    "urlName": "Arknights | 1st Anniversary Illustration Collection",
+                    "urlDescription": "✅ currently own | box item set"
+                },
+                {
+                    "url": "https://yostar.store/collections/arknights/products/arknights-2nd-anniversary-vacation-kit",
+                    "urlName": "Arknights | 2nd Anniversary Vacation Kit",
+                    "urlDescription": "✅ currently own | box item set"
+                },
+                {
+                    "url": "https://apps.apple.com/app/apple-store/id1462500984",
+                    "urlName": "SuperChinese PLUS 终身高级会员",
+                    "urlDescription": "✅ currently own | AI-based language learning app"
+                },
+                {
+                    "url": "https://www.aniplexplus.com/itemTOeJoMTN.html",
+                    "urlName": "PROPLICA ソウルジェム＆グリーフシードセット -鹿目まどかver.-",
+                    "urlDescription": "✅ currently own | proplica set"
+                },
+                {
+                    "url": "https://www.jp.square-enix.com/goods/items/f847413401725373861b3f76ad1101e858f69721.html",
+                    "urlName": "マスコットコインバンク ＜ナマズオ＞",
+                    "urlDescription": "✅ currently own | coin bank"
+                },
+                {
+                    "url": "https://storage.toshiba.com/consumer-hdd/external/canvio-basics",
+                    "urlName": "Toshiba Canvio Basics",
+                    "urlDescription": "✅ currently own | external hard drive"
+                },
+                {
+                    "url": "https://bushiroad-creative.com/products/bcr000172pz",
+                    "urlName": "BanG Dream! ガールズバンドパーティ！メッセンジャーバッグvol.1 戸山香澄",
+                    "urlDescription": "✅ currently own | messenger bag | ⭐ got this while playing at an Akihabara SEGA arcade in Tokyo"
+                },
+                {
+                    "url": "https://alstonstore.com/products/q9",
+                    "urlName": "ALSTON Q9 Full HD 1080p projector",
+                    "urlDescription": "✅ currently own | projector"
+                },
+                {
+                    "url": "https://www.jackery.com/products/explorer-240-portable-power-station",
+                    "urlName": "Jackery Explorer 240",
+                    "urlDescription": "✅ currently own | power station"
+                },
+                {
+                    "url": "https://www.usa.canon.com/shop/p/selphy-cp1300?color=Black&type=New",
+                    "urlName": "SELPHY CP1300",
+                    "urlDescription": "✅ currently own | photo printer"
+                },
+                {
+                    "url": "https://www.boss.info/us/products/katana-100/",
+                    "urlName": "BOSS KATANA-100",
+                    "urlDescription": "✅ currently own | guitar amp"
+                },
+                {
+                    "url": "https://www.honeywellstore.com/store/products/hpa300-true-hepa-whole-room-air-purifier-with-allergen-remover.htm",
+                    "urlName": "Honeywell HPA300",
+                    "urlDescription": "✅ currently own | air purifier"
+                },
+                {
+                    "url": "https://www.amazon.com/gp/product/B089YK4VZR/",
+                    "urlName": "Foxemart Computer Desk",
+                    "urlDescription": "✅ currently own | desk"
+                },
+                {
+                    "url": "https://www.giant-bicycles.com/md/expressway-1-2020",
+                    "urlName": "Expressway 1",
+                    "urlDescription": "✅ currently own | bike"
+                },
+                {
+                    "url": "https://www.mayflash.com/product/mayflash_arcade_stick_f300.html",
+                    "urlName": "MAYFLASH F300",
+                    "urlDescription": "✅ currently own | arcade stick"
+                },
+                {
+                    "url": "https://www.nintendo.com/switch/",
+                    "urlName": "Nintendo Switch",
+                    "urlDescription": "✅ currently own | video game console"
+                },
+                {
+                    "url": "https://www.adobe.com/products/elements-family.html",
+                    "urlName": "Adobe Premiere Elements & Photoshop Elements",
+                    "urlDescription": "✅ currently own | video/photo editing softwares"
+                },
+                {
+                    "url": "https://www.espguitars.com/search?page=1&q=EC-1001T+CTM&search_for=Product&utf8=%E2%9C%93&_=1663113548544",
+                    "urlName": "EC-1001T CTM - SILVER SUNBURST SATIN",
+                    "urlDescription": "✅ currently own | electric guitar"
+                },
+                {
+                    "url": "https://www.manduka.com/products/eko-superlite-travel-yoga-mat",
+                    "urlName": "eKO Superlite Travel Yoga Mat",
+                    "urlDescription": "✅ currently own | yoga mat"
+                },
+                {
+                    "url": "https://www.ikea.com/us/en/p/millberget-swivel-chair-murum-black-00489397/",
+                    "urlName": "MILLBERGET",
+                    "urlDescription": "✅ currently own | chair"
+                },
+                {
+                    "url": "https://www.apple.com/by/iphone-11/specs/",
+                    "urlName": "iPhone 11",
+                    "urlDescription": "✅ currently own | smartphone"
+                },
+                {
+                    "url": "https://nijigencospa.com/detail/id/00000110021",
+                    "urlName": "★限定★博麗神社 湯のみ [東方Project] ",
+                    "urlDescription": "✅ currently own | teacup"
+                },
+                {
+                    "url": "https://www.microsoft.com/en-us/d/surface-laptop-go/94fc0bdgq7wv",
+                    "urlName": "Microsoft - Surface Laptop Go",
+                    "urlDescription": "✅ currently own | laptop | ⭐ developed this website using this laptop"
+                }
+            ]
+        },
+        {
+            "name": "events",
+            "description": "🎫 in-person or online events that are of interest",
+            "urls": [
+                {
+                    "urlName": "COMITIA",
+                    "url": "https://www.comitia.co.jp/",
+                    "urlDescription": "📅 2023.09.03 | COMITIA145 convention"
+                },
+                {
+                    "url": "https://www.comiket.co.jp/",
+                    "urlName": "コミックマーケット準備会",
+                    "urlDescription": "📅 2023.08.12 - 08.13 | C102 convention | ✅ attended C97"
+                },
+                {
+                    "url": "https://act.mihoyo.com/ys/event/e20230623fes-land-ud46if/index.html",
+                    "urlName": "原神☆FES",
+                    "urlDescription": "📅 2023.08.10 - 08.13 | convention"
+                },
+                {
+                    "url": "https://globalrunningday.org/",
+                    "urlName": "Global Running Day",
+                    "urlDescription": "📅 2023.06.07"
+                },
+                {
+                    "url": "https://www.evo.gg/",
+                    "urlName": "EVO",
+                    "urlDescription": "📅 2023.03.31 - 04.02 | fighting game championship"
+                },
+                {
+                    "url": "https://amicamp.jp/",
+                    "urlName": "あみあみホビーキャンプ",
+                    "urlDescription": "📅 2023.02.12 | exhibition"
+                },
+                {
+                    "url": "https://pixiv-waengallery.com/",
+                    "urlName": "pixiv WAEN GALLERY",
+                    "urlDescription": "📅 2023 | exhibition"
+                },
+                {
+                    "url": "https://www.pixiv.net/special/pixiv-emoooji",
+                    "urlName": "pixivEMOOOji Month",
+                    "urlDescription": "📅 2022.09.20 - 10.24 | emoji feature"
+                },
+                {
+                    "url": "http://whl4u.jp",
+                    "urlName": "WonHobby",
+                    "urlDescription": "📅 2022.02.11 - 02.13 | exhibition"
+                },
+                {
+                    "url": "https://bw.bilibili.com",
+                    "urlName": "BiliBiliWorld",
+                    "urlDescription": "📅 2021.07.09 - 07.11 | exhibition"
+                }
+            ]
+        },
+        {
+            "name": "books queue",
+            "description": "📚 books that i have read, am currently reading/translating, or in queue",
+            "urls": [
+                {
+                    "urlName": "nature - Volume 562 Issue 7727",
+                    "url": "https://www.nature.com/nature/volumes/562/issues/7727",
+                    "urlDescription": "🟨 in-progress: page 381/454"
+                },
+                {
+                    "url": "https://www.nature.com/nature/volumes/566/issues/7744",
+                    "urlName": "nature - Volume 566 Issue 7744",
+                    "urlDescription": "🟨 in-progress: page 291/420"
+                },
+                {
+                    "urlName": "プリマドール New Order １",
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322208000462/",
+                    "urlDescription": "🟨 in-progress: page 1/160"
+                },
+                {
+                    "urlName": "恋する小惑星　5",
+                    "url": "https://books.rakuten.co.jp/rb/17340608/",
+                    "urlDescription": "🟨 in-progress: page 16/120"
+                },
+                {
+                    "urlName": "SHUFFLE!-Days in the bloom (2)",
+                    "url": "https://www.amazon.com/SHUFFLE-Days-bloom-Kadokawa-Comics/dp/4047136867",
+                    "urlDescription": "🟨 in-progress"
+                },
+                {
+                    "urlName": "マギアレコード　魔法少女まどか☆マギカ外伝　アナザーストーリー　2",
+                    "url": "https://books.rakuten.co.jp/rb/16700265/",
+                    "urlDescription": "🟨 in-progress: page 1/145"
+                },
+                {
+                    "urlName": "ちいかわ　なんか小さくてかわいいやつ（5）",
+                    "url": "https://books.rakuten.co.jp/rb/17355436/",
+                    "urlDescription": "🟨 in-progress: page 45/128"
+                },
+                {
+                    "urlName": "オーバーロード　（５）",
+                    "url": "https://store.kadokawa.co.jp/shop/g/g321602000534/",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g301405000066/",
+                    "urlName": "艦隊これくしょん　‐艦これ‐　アンソロジーコミック　横須賀鎮守府編（６）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322206000870/",
+                    "urlName": "蜘蛛ですが、なにか？ 蜘蛛子四姉妹の日常　（6）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784065134009",
+                    "urlName": "ブルーロック（1）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=612262",
+                    "urlName": "レミリアの片想い",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://magazine.jp.square-enix.com/top/comics/detail/9784757582347/",
+                    "urlName": "Do It Yourself!! -どぅー・いっと・ゆあせるふ- 1",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.nature.com/nature/volumes/565/issues/7738",
+                    "urlName": "nature - Volume 565 Issue 7738",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322011000762/",
+                    "urlName": "原神 電撃コミックアンソロジー",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17256610/",
+                    "urlName": "ルリドラゴン 1",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.nature.com/nature/volumes/563/issues/7733",
+                    "urlName": "nature - Volume 563 Issue 7733",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322201000013/",
+                    "urlName": "Ｆａｔｅ／ｋａｌｅｉｄ　ｌｉｎｅｒ　プリズマ☆イリヤ　　ドライ！！　（１３）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784065205372",
+                    "urlName": "東京ミュウミュウ　2020　り・たーん",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/12086488/",
+                    "urlName": "がっこうぐらし！（1）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16659338/",
+                    "urlName": "明日ちゃんのセーラー服 8",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.amazon.com/ゆるゆり-1-新装版-IDコミックス-百合姫コミックス/dp/4758074364",
+                    "urlName": "ゆるゆり (1)",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16630984/",
+                    "urlName": "アイドルマスター シャイニーカラーズ イラストレーション ワークス VOL.2",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/15365020/",
+                    "urlName": "世話やきキツネの仙狐さん　（1）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17244502/",
+                    "urlName": "ぼっち・ざ・ろっく！アンソロジーコミック　1",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.nature.com/nature/volumes/577/issues/7788",
+                    "urlName": "nature - Volume 577 Issue 7788",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/322005000596/",
+                    "urlName": "アイドルマスター　シンデレラガールズ シンデレラガールズ劇場 わいど☆（2）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://grinp.booth.pm/items/4565429",
+                    "urlName": "お兄ちゃんはおしまい！２４",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g312153900000/",
+                    "urlName": "超次元ゲイム　ネプテューヌ　はろーにゅーわーるど　Ｖｏｌ．２",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/12432317/",
+                    "urlName": "干物妹！うまるちゃん（1）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17145387/",
+                    "urlName": "けいおん！Shuffle　2",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16463228/",
+                    "urlName": "Z/X Code reunion 3",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16910335/",
+                    "urlName": "ご注文はうさぎですか？　10",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17180623/",
+                    "urlName": "からめる",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=193074",
+                    "urlName": "告白図鑑（5年目の放課後）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17015605/",
+                    "urlName": "スローループ　6",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16426955/",
+                    "urlName": "あやかしトライアングル 1",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17177482/",
+                    "urlName": "黒猫と魔女の教室（1）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=686862",
+                    "urlName": "るしあくあ",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=594997",
+                    "urlName": "AQUART",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/11194671/",
+                    "urlName": "東方茨歌仙（1）　WILD　AND　HORNED　HERMIT",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.amazon.com/THE-IDOLM-STER-6-REXコミックス/dp/4758066140",
+                    "urlName": "THE IDOLM@STER (6)",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17022922/",
+                    "urlName": "アークナイツ OPERATORS!(1)",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17022946/",
+                    "urlName": "甘えさせて雛森さん！ 〈１〉",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784065239223",
+                    "urlName": "ウマ娘　プリティーダービー　アンソロジーコミック　STAR",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g201204000382/",
+                    "urlName": "超次元ゲイム　ネプテューヌ　‐めがみつうしん‐（２）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/322004000403/",
+                    "urlName": " 星のカービィ　なぞなぞブック",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.amazon.co.jp/ファイアーエムブレム覚醒コミックアンソロジー-2-IDコミックス-DNAメディアコミックス-アンソロジー/dp/4758008558",
+                    "urlName": "ファイアーエムブレム覚醒コミックアンソロジー 2",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g321812000345/",
+                    "urlName": "となりの吸血鬼さん画集",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784091423146",
+                    "urlName": "ゼルダの伝説 トワイライトプリンセス（２）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/14593690/",
+                    "urlName": "ゆるキャン△（3）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/15812283/",
+                    "urlName": "ゆるキャン△　8",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16714313/",
+                    "urlName": "ブルーアーカイブ コミックアンソロジー VOL.1",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.amazon.com/はるかなレシーブ-10-まんがタイムKR-フォワードコミックス/dp/4832272187",
+                    "urlName": "はるかなレシーブ　１０",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17061822/",
+                    "urlName": "アズールレーン コミックアンソロジー Breaking!!　VOL.8",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.amazon.co.jp/マンガで分かる-Fate-Grand-Order-角川コミックス/dp/4041061016",
+                    "urlName": "マンガで分かる! Fate/Grand Order(1)",
+                    "urlDescription": "✅ completed reading"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g321511000539/",
+                    "urlName": "Ｆａｔｅ／Grand　Order　コミックアラカルト　Ｉ",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/321608000438/",
+                    "urlName": "けものフレンズ　‐ようこそジャパリパークへ！‐　（１）",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784832273276",
+                    "urlName": "魔法少女まどか☆マギカ【新装完全版】上",
+                    "urlDescription": " ✅ completed reading"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/322205000797/",
+                    "urlName": " リコリス・リコイル Ordinary days",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.amiami.jp/top/detail/detail?gcode=MED-BOOK-030414",
+                    "urlName": "Fate/Grand Order material X",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17169399/",
+                    "urlName": "戦国BASARA　双極の幻（4）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784065240410",
+                    "urlName": "甘神さんちの縁結び（1）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17177476/",
+                    "urlName": "コンビニ夜勤のあくまちゃん　1",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16619015/",
+                    "urlName": "呪術廻戦 公式ファンブック",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17108216/",
+                    "urlName": "Purizm (プリズム) Vol.9 2022年 05月号",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16973636/",
+                    "urlName": "ファイアーエムブレム ヒーローズ キャラクターイラストレーションズ Vol.1",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17136891/",
+                    "urlName": "ファイアーエムブレム　ヒーローズ　キャラクターイラストレーションズ　Vоl．2",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16910334/",
+                    "urlName": "蒼樹うめ　魔法少女まどか☆マギカ　Ultimate　Art　Works",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/322104000360/",
+                    "urlName": "ラブライブ！スーパースター!! FIRST FAN BOOK",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17049843/",
+                    "urlName": "まちカドまぞくアンソロジーコミック　1",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17113574/",
+                    "urlName": "ゆらめきラグーン　1",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17049840/",
+                    "urlName": "RPG不動産　4",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16290266/",
+                    "urlName": "マギアレコード　魔法少女まどか☆マギカ外伝　TVアニメ公式ガイドブック　1",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://gekkan-bushi.com/backnumber/2020_09/",
+                    "urlName": "月刊ブシロード2020年9月号",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://gekkan-bushi.com/backnumber/2018_11/",
+                    "urlName": "月刊ブシロード2018年11月号",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.hakusensha.co.jp/comicslist/53937/",
+                    "urlName": "上野さんは不器用　【公式アンソロジー小冊子「上野本」付き】限定版 6",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/12550443/",
+                    "urlName": "がっこうぐらし！（3）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/6511702/",
+                    "urlName": "東方儚月抄～月のイナバと地上の因幡（下巻）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/6140690/",
+                    "urlName": "東方儚月抄～月のイナバと地上の因幡（上巻）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g301311000513/",
+                    "urlName": "艦隊これくしょん　‐艦これ‐　アンソロジーコミック　横須賀鎮守府編（３）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g301309002431/",
+                    "urlName": "艦隊これくしょん　－艦これ－　アンソロジーコミック　横須賀鎮守府編（２）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784758061698",
+                    "urlName": "東方儚月抄 〈底〉 - Ｓｉｌｅｎｔ　ｓｉｎｎｅｒ　ｉｎ　ｂｌｕｅ",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/13426456/",
+                    "urlName": "とびだせ どうぶつの森 はりきり村長イッペー！ 3",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/13076091/",
+                    "urlName": "とびだせ どうぶつの森 はりきり村長イッペー！ 2",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g321603000121/",
+                    "urlName": "君の名は。",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.amazon.co.jp/魔法少女まどか☆マギカ-10th-Anniversary-まんがタイムKR-フォワードコミックス/dp/4832273388",
+                    "urlName": "魔法少女まどか☆マギカ 10th Anniversary Book(3)",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.amazon.co.jp/魔法少女まどか☆マギカ-10th-Anniversary-まんがタイムKR-フォワードコミックス/dp/4832273108",
+                    "urlName": "魔法少女まどか☆マギカ 10th Anniversary Book(2)",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.amazon.co.jp/魔法少女まどか☆マギカ-10th-Anniversary-まんがタイムKR-フォワードコミックス/dp/4832272888",
+                    "urlName": "魔法少女まどか☆マギカ 10th Anniversary Book(1)",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g321604000061/",
+                    "urlName": "ラブライブ!サンシャイン!!　FIRST　FAN　BOOK",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/321706000110/",
+                    "urlName": "ラブライブ！スクールアイドルフェスティバル Aqours official illustration book",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/14638758/",
+                    "urlName": "物理的に孤立している俺の高校生活",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://umamusume.jp/products/detail.php?id=products-045",
+                    "urlName": "ウマ娘 プリティーダービーマガジン Vol.2",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://gekkan-bushi.com/backnumber/2022_06/",
+                    "urlName": "月刊ブシロード2022年6月号",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17071075/",
+                    "urlName": "BIGアートトランプ＆ブック型ケース付き　カードキャプターさくら　クリアカード編（12）特装版",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322111000770/",
+                    "urlName": "月姫　A piece of blue glass moon コミックアラカルト　（１）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322109000318/",
+                    "urlName": "はいふり　９",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g322106000209/",
+                    "urlName": "ドールズフロントライン みしまひろじ作品集",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784832273375",
+                    "urlName": "魔法少女まどか☆マギカ 〈下〉",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784758022910",
+                    "urlName": "ブルーアーカイブコミックアンソロジー 〈ＶＯＬ．２〉",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16891687/",
+                    "urlName": "プロジェクトセカイ カラフルステージ！ feat.初音ミク　コミックアンソロジー",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/17131878/",
+                    "urlName": "シャドーハウス 11",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16090200/",
+                    "urlName": "よふかしのうた（1）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16866751/",
+                    "urlName": "STARTING GATE！ -ウマ娘プリティーダービーー（1）",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16834734/",
+                    "urlName": "がっこうぐらし！～おたより～",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16910339/",
+                    "urlName": "マギアレコード　魔法少女まどか☆マギカ外伝　5",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://books.rakuten.co.jp/rb/16723677/",
+                    "urlName": "マギアレコード　魔法少女まどか☆マギカ外伝　4",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.futabasha.co.jp/booksdb/book/bookview/978-4-575-16512-8.html",
+                    "urlName": "モンスターハンターダブルクロス 公式データハンドブック 防具の知識書 ",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://gekkan-bushi.com/backnumber/2019_07/",
+                    "urlName": "月刊ブシロード2019年7月号",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://store.kadokawa.co.jp/shop/g/g321501000276/",
+                    "urlName": "ラストエンブリオ １",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/321702000733/",
+                    "urlName": "冴えない彼女の育てかた13",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://kadokawabooks.jp/product/itainohaiya/321705000488.html",
+                    "urlName": "痛いのは嫌なので防御力に極振りしたいと思います。",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.hmv.co.jp/artist_橘公司_000000000469640/item_デート・ア・ライブ-04-五河シスター-富士見ファンタジア文庫_4952905",
+                    "urlName": "デート・ア・ライブ 04 五河シスター 富士見ファンタジア文庫",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784041028834",
+                    "urlName": "Ｆａｔｅ／ｓｔａｙ　ｎｉｇｈｔ　コミックアラカルト　鋼の章",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.hanmoto.com/bd/isbn/9784048651905",
+                    "urlName": "ソードアート・オンライン　オルタナティブ ガンゲイル・オンラインＩＩＩ -セカンド・スクワッド・ジャム",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kadokawa.co.jp/product/201102000330/",
+                    "urlName": " はたらく魔王さま！２",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://tkj.jp/book/?cd=TD293992",
+                    "urlName": "響け！ ユーフォニアム　北宇治高校吹奏楽部、決意の最終楽章",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784758022873",
+                    "urlName": "ゆるゆり 〈２０〉",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.aniplexplus.com/itemHdnWLMGU.html",
+                    "urlName": "THE IDOLM@STER MILLION LIVE！ CARD VISUAL COLLECTION VOL.1",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.toypla.com/event_info/yuzu_illust/",
+                    "urlName": "ぷちゆずソフトのほん",
+                    "urlDescription": "⬛ in-queue"
+                }
+            ]
+        },
+        {
+            "name": "shows queue",
+            "description": "📺 shows that i have watched, am currently watching, or in queue",
+            "urls": [
+                {
+                    "urlName": "あやかしトライアングル",
+                    "url": "https://ayakashitriangle-anime.com/",
+                    "urlDescription": "🟨 in-progress: episode 3"
+                },
+                {
+                    "urlName": "アイドルマスターシンデレラガールズU149",
+                    "url": "https://cinderella-u149-anime.idolmaster-official.jp/",
+                    "urlDescription": "🟨 in-progress: episode 8"
+                },
+                {
+                    "urlName": "Cardcaptor Sakura (1998)",
+                    "url": "https://myanimelist.net/anime/232/Cardcaptor_Sakura",
+                    "urlDescription": "🟨 in-progress: episode 11 | 📝 note: originally watched as a kid but didn't finish the series so re-watching it now"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md13372924",
+                    "urlName": "非人哉",
+                    "urlDescription": "🟨 in-progress: episode 3"
+                },
+                {
+                    "url": "https://nierautomata-anime.com/",
+                    "urlName": "NieR:Automata Ver1.1a",
+                    "urlDescription": "🟨 in-progress: episode 8"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md2102",
+                    "urlName": "星之卡比",
+                    "urlDescription": "🟨 in-progress: episode 8"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md1733",
+                    "urlName": "罗小黑战记",
+                    "urlDescription": "🟨 in-progress: episode 29"
+                },
+                {
+                    "urlName": "くま クマ 熊 ベアー",
+                    "url": "https://kumakumakumabear.com/",
+                    "urlDescription": "🟨 in-progress: episode 5 - Season 2 | ✅ completed watching - Season 1"
+                },
+                {
+                    "urlName": "猫之茗",
+                    "url": "https://www.bilibili.com/bangumi/media/md28223054",
+                    "urlDescription": "🟨 in-progress: episode 15 - Season 2 | ✅ completed watching - Season 1"
+                },
+                {
+                    "urlName": "仙王的日常生活",
+                    "url": "https://www.bilibili.com/bangumi/media/md4313802",
+                    "urlDescription": "🟨 in-progress: episode 3 - Season 2 | ✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://g-witch.net/",
+                    "urlName": "機動戦士ガンダム 水星の魔女",
+                    "urlDescription": "🟨 in-progress: episode 1 - Season 2 | ✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md4313762",
+                    "urlName": "百妖谱",
+                    "urlDescription": "🟨 in-progress: episode 1 - Season 2 | ✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://shinycolors-anime.idolmaster-official.jp/",
+                    "urlName": "アイドルマスター シャイニーカラーズ",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md6038",
+                    "urlName": "风灵玉秀",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28223059",
+                    "urlName": "天官赐福",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28230742",
+                    "urlName": "时光代理人",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md2543",
+                    "urlName": "狐妖小红娘",
+                    "urlDescription": "⬛ in-queue"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md6360",
+                    "urlName": "刺客伍六七 - Scissor Seven",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3"
+                },
+                {
+                    "url": "https://onepunchman-anime.net/",
+                    "urlName": "One Punch Man",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://isekaiojisan.com/",
+                    "urlName": "異世界おじさん ",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.netflix.com/title/81090127",
+                    "urlName": "ぐでたま 〜母をたずねてどんくらい〜",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.netflix.com/title/81002441",
+                    "urlName": "Tekken: Bloodline",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://onimai.jp/",
+                    "urlName": "お兄ちゃんはおしまい！",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://bluelock-pr.com",
+                    "urlName": "Blue Lock",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://chainsawman.dog/",
+                    "urlName": "Chainsaw Man",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://kancolle-anime.jp/",
+                    "urlName": "Kantai Collection",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://tokyo-mew-mew.com/",
+                    "urlName": "東京ミュウミュウ にゅ～♡",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://shippona-anime.com/",
+                    "urlName": "うちの師匠はしっぽがない",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://ipponagain.com/",
+                    "urlName": "もういっぽん！",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://tenken-anime.com/",
+                    "urlName": "転生したら剣でした",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.yuyushiki.net/",
+                    "urlName": "ゆゆ式 ",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://miabyss.com/",
+                    "urlName": "Made in Abyss",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://yamanosusume-ns.com/",
+                    "urlName": "ヤマノススメ Next Summit",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://spyroom-anime.com/",
+                    "urlName": "スパイ教室",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://paripikoumei-anime.com/",
+                    "urlName": "パリピ孔明",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://akibamaidwar.com/",
+                    "urlName": "アキバ冥途戦争",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.tbs.co.jp/anime/urara/",
+                    "urlName": "うらら迷路帖",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28228714",
+                    "urlName": "雾山五行",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md23432",
+                    "urlName": "灵笼",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md5879",
+                    "urlName": "超游世界",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28235405",
+                    "urlName": "小魔头暴露啦！",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md6652",
+                    "urlName": "王兄李兄没完没了的故事",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md113472",
+                    "urlName": "请吃红小豆吧！",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 外传, 3, 4, 0.5"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28234621",
+                    "urlName": "三三的生活果然有问题",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28235406",
+                    "urlName": "战千年",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://youtube.com/playlist?list=PLU5cdufaHshqi4qII9Ct8zQnJ8Y5DuOS4",
+                    "urlName": "ぱにぐれ劇場",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28233209",
+                    "urlName": "手机里的浣熊小镇",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28235391",
+                    "urlName": "暂停！让我查攻略",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md28235401",
+                    "urlName": "中国奇谭",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://kokyu-anime.com/",
+                    "urlName": "後宮の烏",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://bocchi.rocks/",
+                    "urlName": "BOCCHI THE ROCK!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://diy-anime.com/",
+                    "urlName": "Do It Yourself!!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://hoshiiro.jp/",
+                    "urlName": "Pop Team Epic",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://arknights-anime.jp/",
+                    "urlName": "Arknights: PRELUDE TO DAWN",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.ntv.co.jp/basara_je/",
+                    "urlName": "戦国BASARA Judge End",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://maerchen-anime.com/",
+                    "urlName": "Märchen Mädchen",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://prisma-illya.jp/",
+                    "urlName": "Fate/kaleid liner プリズマ☆イリヤ",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2wei, 2wei Herz, 3rei"
+                },
+                {
+                    "url": "https://doukichan-anime.com/",
+                    "urlName": "がんばれ同期ちゃん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://nonnontv.com/tvanime/",
+                    "urlName": "のんのんびより",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/yuigaoka/",
+                    "urlName": "Love Live! Superstar!!",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://dq-dai.com/",
+                    "urlName": "DRAGON QUEST The Adventure of Dai (2020 Series)",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://soushokudragon.jp/",
+                    "urlName": "齢5000年の草食ドラゴン、いわれなき邪竜認定",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://overlord-anime.com",
+                    "urlName": "Overlord",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3, 4"
+                },
+                {
+                    "url": "https://lycoris-recoil.com",
+                    "urlName": "Lycoris Recoil",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://shadowshouse-anime.com",
+                    "urlName": "SHADOWS HOUSE",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://aoashi-pr.com",
+                    "urlName": "Aoashi",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://zombielandsaga.com/",
+                    "urlName": "Zombie Land Saga",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://anime.priconne-redive.jp/",
+                    "urlName": "Princess Connect! Re:Dive",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://gf-anime.com/",
+                    "urlName": "Girls' Frontline",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/nijigasaki/",
+                    "urlName": "Love Live! Nijigasaki High School Idol Club",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://anime.magireco.com/",
+                    "urlName": "Magia Record: Puella Magi Madoka Magica Side Story",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3"
+                },
+                {
+                    "url": "https://anime.assaultlily-pj.com/",
+                    "urlName": "Assault Lily BOUQUET",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://jujutsukaisen.jp/",
+                    "urlName": "JUJUTSU KAISEN",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://osama-ranking.com/",
+                    "urlName": "Ranking of Kings",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://anime-umamusume.jp/",
+                    "urlName": "Umamusume: Pretty Derby",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://www.tbs.co.jp/anime/hanakokun/",
+                    "urlName": "地縛少年花子くん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://mierukochan.jp/",
+                    "urlName": "Mieruko-chan",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://bisquedoll-anime.com/",
+                    "urlName": "その着せ替え人形は恋をする",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://yakumo-project.com/",
+                    "urlName": "やくならマグカップも",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://mahjongsoul-pong.jp/",
+                    "urlName": "Mahjong Soul Pon☆",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://umamusume.jp/umayon/",
+                    "urlName": "UMAYON",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://akebi-chan.jp/",
+                    "urlName": "明日ちゃんのセーラー服",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://shikkakumon.com/",
+                    "urlName": "失格紋の最強賢者",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.azurlane-bisoku.jp/",
+                    "urlName": "アズールレーン びそくぜんしんっ! ",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://supercub-anime.com/",
+                    "urlName": "Super Cub",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://imas-cinderella.com/",
+                    "urlName": "THE IDOLM@STER CINDERELLA GIRLS",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "http://higehiro-anime.com/",
+                    "urlName": "Higehiro",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://oneroom-anime.com/",
+                    "urlName": "OneRoom",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3"
+                },
+                {
+                    "url": "https://yurucamp.jp/",
+                    "urlName": "Yurucamp",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://www.syakunetsu.com/",
+                    "urlName": "灼熱の卓球娘",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://bofuri.jp/",
+                    "urlName": "BOFURI",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://ochifuru-anime.com/",
+                    "urlName": "おちこぼれフルーツタルト",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://teibotv.com/",
+                    "urlName": "放課後ていぼう日誌",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://majotabi.jp/",
+                    "urlName": "魔女の旅々",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://taritari.jp/",
+                    "urlName": "Tari Tari",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://227anime.com/",
+                    "urlName": "22/7 (ナナブンノニジュウニ)",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://koiastv.com/",
+                    "urlName": "恋する小惑星",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://yurucamp.jp/heyacamp/",
+                    "urlName": "ROOM CAMP",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://konohanatei.jp/",
+                    "urlName": "このはな綺譚",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://yuyuyu.tv/daimankai/",
+                    "urlName": "結城友奈は勇者である",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "http://jashinchan.com/",
+                    "urlName": "Dropkick on My Devil!",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "http://girls-last-tour.com/",
+                    "urlName": "Girls' Last Tour",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://pripri-anime.jp/",
+                    "urlName": "Princess Principal",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://anime.elmelloi.com/",
+                    "urlName": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.maidguy.com/",
+                    "urlName": "仮面のメイドガイ",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://bakuon-anime.com/",
+                    "urlName": "ばくおん!!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://sounandesuka.jp/",
+                    "urlName": "ソウナンですか？",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://senkosan.com/",
+                    "urlName": "世話やきキツネの仙狐さん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/357/Bokusatsu_Tenshi_Dokuro-chan",
+                    "urlName": "撲殺天使ドクロちゃん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.smiral-label.com/anime-training/",
+                    "urlName": "AniTore! EX",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://hitoribocchi.jp/",
+                    "urlName": "ひとりぼっちの○○生活",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://endro.jp/",
+                    "urlName": "ENDRO!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt9567240/",
+                    "urlName": "上野さんは不器用",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://kazetsuyo-anime.com/",
+                    "urlName": "風が強く吹いている",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://nyanko-days.com/",
+                    "urlName": "Nyanko Days",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.goblinslayer.jp/",
+                    "urlName": "Goblin Slayer",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://emiya-gohan.com/",
+                    "urlName": "衛宮さんちの今日のごはん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt9100954/",
+                    "urlName": "ガイコツ書店員本田さん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://uzamaid.com/",
+                    "urlName": "UzaMaid!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://kyuketsukisan-anime.com/",
+                    "urlName": "となりの吸血鬼さん",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.yamanosusume.com/",
+                    "urlName": "ヤマノススメ",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3"
+                },
+                {
+                    "url": "http://www.ooyasan-anime.com/",
+                    "urlName": "大家さんは思春期！",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.harukana-receive.jp/",
+                    "urlName": "Harukana Receive",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.hai-furi.com/",
+                    "urlName": "Haifuri",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://yorimoi.com/",
+                    "urlName": "宇宙よりも遠い場所",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://comic-girls.com/",
+                    "urlName": "Comic Girls",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://bang-dream.com/anime",
+                    "urlName": "BanG Dream!",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/uranohoshi/",
+                    "urlName": "Love Live! Sunshine!!",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://seikaisuru-kado.com/",
+                    "urlName": "正解するカド KADO: The Right Answer",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.fate-zero.jp/",
+                    "urlName": "Fate Zero",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://sukasuka-anime.com/",
+                    "urlName": "終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://rokuaka.jp/",
+                    "urlName": "ロクでなし魔術講師と禁忌教典(アカシックレコード)",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://flipflappers.com/",
+                    "urlName": "Flip Flappers",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://gabdro.com/",
+                    "urlName": "Gabriel Dropout",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://w-witch.jp/",
+                    "urlName": "Strike Witches",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/32866/Brave_Witches",
+                    "urlName": "Brave Witches",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.fantasistadoll.com/",
+                    "urlName": "Fantasista Doll",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://te-kyu.com/",
+                    "urlName": "Teekyu",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3, 4, 5, 6, 7, 8, 9"
+                },
+                {
+                    "url": "https://sneakerbunko.jp/konosuba/",
+                    "urlName": "この素晴らしい世界に祝福を！",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://bokumachi-anime.com/",
+                    "urlName": "僕だけがいない街",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://osomatsusan.com/",
+                    "urlName": "おそ松さん",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://utawarerumono.jp/",
+                    "urlName": "うたわれるもの 偽りの仮面",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://yuruyuri.com",
+                    "urlName": "ゆるゆり",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://gate-anime.com/",
+                    "urlName": "GATE",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://umaru-ani.me/",
+                    "urlName": "干物妹！うまるちゃん",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "http://prison-anime.com/",
+                    "urlName": "Prison School",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.gakkougurashi.com/",
+                    "urlName": "がっこうぐらし",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.project-magi.com/",
+                    "urlName": "Magi",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/11633/Blood_Lad",
+                    "urlName": "Blood Lad",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://danmachi.com/",
+                    "urlName": "ダンまち",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.fate-sn.com/ubw/",
+                    "urlName": "Fate/stay night [Unlimited Blade Works]",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.marv.jp/special/yona/",
+                    "urlName": "暁のヨナ",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://trinity-7.com/",
+                    "urlName": "Trinity Seven",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.tbs.co.jp/anime/ore_twi/",
+                    "urlName": "俺、ツインテールになります。",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt4939382/",
+                    "urlName": "ニーチェ先生～コンビニに、さとり世代の新人が舞い降りた",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt2277545/",
+                    "urlName": "Future Diary: Another World",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://corona106.tv/",
+                    "urlName": "六畳間の侵略者!? ",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://terror-in-tokyo.com/",
+                    "urlName": "残響のテロル",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://wakeupgirls.jp/",
+                    "urlName": "Wake Up Girls!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.gurren-lagann.net/",
+                    "urlName": "Gurren Lagann",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://gosick.jp/",
+                    "urlName": "GOSICK",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/20787/Black_Bullet",
+                    "urlName": "Black Bullet",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://nep-anime.tv/",
+                    "urlName": "超次元ゲイム ネプテューヌ THE ANIMATION",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.takeshobo.co.jp/sp/tv_poyopoyo/",
+                    "urlName": "ポヨポヨ観察日記",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.pingpong-anime.tv/",
+                    "urlName": "Ping Pong the Animation",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://tv.anime-kyokai.com/",
+                    "urlName": "境界の彼方",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.killlakill.com/",
+                    "urlName": "Kill la Kill",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.noitamina-apollon.com/index_en.html",
+                    "urlName": "坂道のアポロン",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://maousama.jp/",
+                    "urlName": "はたらく魔王さま! ",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "http://www.watamote.jp/",
+                    "urlName": "Watamote",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://shingeki.tv/final/",
+                    "urlName": "Attack on Titan",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "http://www.litbus-anime.com/",
+                    "urlName": "Little Busters!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt2390022/",
+                    "urlName": "武装神姫",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.btooom.com/",
+                    "urlName": "Btooom!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://girls-und-panzer.jp/",
+                    "urlName": "Girls und Panzer",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0899258/",
+                    "urlName": "D.Gray-man",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "http://www.code-breaker.jp/",
+                    "urlName": "Code: Breaker",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai",
+                    "urlName": "中二病でも恋がしたい!",
+                    "urlDescription": "✅ completed watching - Season 1"
+                },
+                {
+                    "url": "https://www.anohana.jp/",
+                    "urlName": "あの日見た花の名前を僕達はまだ知らない。",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/11021/Muv-Luv_Alternative__Total_Eclipse",
+                    "urlName": "Muv-Luv Alternative: Total Eclipse",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.tbs.co.jp/anime/is/",
+                    "urlName": "Infinite Stratos",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://www.mbs.jp/geass/",
+                    "urlName": "Code Geass",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://blackrockshooter.jp/",
+                    "urlName": "Black Rock Shooter",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.mbs.jp/sengokubasara/",
+                    "urlName": "Sengoku Basara: Samurai Kings",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://kemono-friends.jp/",
+                    "urlName": "Kemono Friends",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt1639109/",
+                    "urlName": "Angel Beats!",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://myanimelist.net/anime/68/Black_Cat_TV",
+                    "urlName": "Black Cat",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.sonymusic.co.jp/Animation/spiral/",
+                    "urlName": "Spiral",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0332056/",
+                    "urlName": "Fire Emblem",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0433289/",
+                    "urlName": "F-Zero GP Legend",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.gundam-seed.net/destiny/",
+                    "urlName": "Gundam Seed: Destiny",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://www.gundam-seed.net/seed/",
+                    "urlName": "Gundam Seed",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.lucky-ch.com/",
+                    "urlName": "Lucky Star",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "https://en.wikipedia.org/wiki/Yu-Gi-Oh!",
+                    "urlName": "Yu-Gi-Oh!",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://www.nick.com/shows/avatar-the-last-airbender",
+                    "urlName": "Avatar: The Last Airbender",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3"
+                },
+                {
+                    "url": "https://en.wikipedia.org/wiki/Sonic_X",
+                    "urlName": "Sonic X",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "url": "https://www.nick.com/shows/spongebob-squarepants",
+                    "urlName": "SpongeBob SquarePants",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3, 4, 5, 6, 7"
+                },
+                {
+                    "url": "https://www.pokemon.com/us/pokemon-episodes/pokemon-tv-seasons/",
+                    "urlName": "Pokemon",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2, 3, 4, 5, 6, 7, 8"
+                },
+                {
+                    "url": "http://www.madoka-magica.com/",
+                    "urlName": "Puella Magi Madoka Magica",
+                    "urlDescription": "✅ completed watching"
+                },
+                {
+                    "url": "http://www.tbs.co.jp/anime/k-on/",
+                    "urlName": "K-On!",
+                    "urlDescription": "✅ completed watching - Seasons 1, 2"
+                },
+                {
+                    "urlName": "📝 shows that i have not completed watching",
+                    "url": "https://greentea.moe/data/other/shows_partially_watched.txt",
+                    "urlDescription": "⬛️ partially completed"
+                }
+            ]
+        },
+        {
+            "name": "movies queue",
+            "description": "📽️ movies that i have watched or are in-queue",
+            "urls": [
+                {
+                    "urlName": "THE FIRST SLAM DUNK",
+                    "url": "https://slamdunk-movie.jp/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "かがみの孤城",
+                    "url": "https://movies.shochiku.co.jp/kagaminokojo/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": " 劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+                    "url": "https://www.madoka-magica.com/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "機動戦士ガンダムSEED FREEDOM",
+                    "url": "https://www.youtube.com/watch?v=qKQmF134nEw",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "url": "https://hello-world-movie.com/",
+                    "urlName": "HELLO WORLD",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "url": "https://kimisui-anime.com/",
+                    "urlName": "君の膵臓をたべたい",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "THE IDOLM@STER MOVIE 輝きの向こう側へ！",
+                    "url": "https://www.idolmaster-anime.jp/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "哪吒之魔童降世",
+                    "url": "http://cococartoon.com/project/396.html",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "ももへの手紙",
+                    "url": "http://momo-letter.jp/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "ONE PIECE STAMPEDE",
+                    "url": "https://www.onepiece-movie.jp/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "コードギアス 復活のルルーシュ",
+                    "url": "https://geass.jp/R-geass/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "Bleach: Memories of Nobody",
+                    "url": "https://www.imdb.com/title/tt1105263/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "犬王",
+                    "url": "https://inuoh-anime.com/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "Okko's Inn",
+                    "url": "https://www.imdb.com/title/tt8328740/",
+                    "urlDescription": "⬜ in-queue"
+                },
+                {
+                    "urlName": "風の谷のナウシカ",
+                    "url": "https://www.ghibli.jp/works/nausicaa/",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "http://sunrise-world.net/titles/pickup_267.php",
+                    "urlName": "犬夜叉　紅蓮の蓬莱島",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://sunrise-world.net/titles/pickup_204.php",
+                    "urlName": "犬夜叉　天下覇道の剣",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://sunrise-world.net/titles/pickup_203.php",
+                    "urlName": "犬夜叉　鏡の中の夢幻城",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://sunrise-world.net/titles/pickup_009.php",
+                    "urlName": "犬夜叉　時代を越える想い",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt7961060/",
+                    "urlName": "Dragon Ball Super: Broly",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0988982/",
+                    "urlName": "Naruto Shippûden: The Movie",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0476680/",
+                    "urlName": "Naruto the Movie: Ninja Clash in the Land of Snow",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt1485763/",
+                    "urlName": "One Piece: Strong World",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.netflix.com/title/81346827",
+                    "urlName": "Monster Hunter: Legends of the Guild",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://bclover-movie.jp/",
+                    "urlName": "ブラッククローバー 魔法帝の剣",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://www.tigerandbunny.net/movie2/",
+                    "urlName": "TIGER & BUNNY -The Rising-",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://www.tigerandbunny.net/movie1/",
+                    "urlName": "TIGER & BUNNY -The Beginning-",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://cider-kotoba.jp/",
+                    "urlName": "サイダーのように言葉が湧き上がる",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt15000314/",
+                    "urlName": "白蛇2：青蛇劫起",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt9288776/",
+                    "urlName": "白蛇：缘起",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://sailormoon-movie.jp",
+                    "urlName": "Sailor Moon Eternal [Parts 1 & 2]",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://kamiari-kodomo.jp/",
+                    "urlName": "神在月のこども",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://shikioriori.jp/",
+                    "urlName": "『詩季織々』(しきおりおり)",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://nakineko-movie.com/",
+                    "urlName": "泣きたい私は猫をかぶる",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://heicat-movie.com/",
+                    "urlName": "映画 羅小黒戦記",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://shoutstudios.shoutfactory.com/big-fish-and-begonia/",
+                    "urlName": "Big Fish & Begonia",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://baike.baidu.com/item/新神榜：杨戬",
+                    "urlName": "新神榜：杨戬",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://baike.baidu.com/item/新神榜：哪吒重生",
+                    "urlName": "新神榜：哪吒重生",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://ryu-to-sobakasu-no-hime.jp/",
+                    "urlName": "竜とそばかすの姫",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.hyoryu-danchi.com/",
+                    "urlName": "雨を告げる漂流団地",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://dq-movie.com/",
+                    "urlName": "Dragon Quest: Your Story",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://violet-evergarden.jp/movie/",
+                    "urlName": "劇場版 ヴァイオレット・エヴァーガーデン",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://gundam-hathaway.net/",
+                    "urlName": "機動戦士ガンダム 閃光のハサウェイ",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.ghibli.jp/works/majo/",
+                    "urlName": "魔女の宅急便",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.shin-kamen-rider.jp/",
+                    "urlName": "シン・仮面ライダー",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.tbs.co.jp/anime/5hanayome/movie/",
+                    "urlName": "映画「五等分の花嫁」",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://kurobas-lg.com/",
+                    "urlName": "劇場版 黒子のバスケ LAST GAME",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://psycho-pass.com/",
+                    "urlName": "Psycho-Pass: The Movie",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://tagatame-movie.jp/",
+                    "urlName": "劇場版 誰ガ為のアルケミスト",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://bokuaikimiai.jp/bokuai/",
+                    "urlName": "僕が愛したすべての君へ",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://bokuaikimiai.jp/kimiai/",
+                    "urlName": "君を愛したひとりの僕へ",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://yurucamp.jp/cinema/",
+                    "urlName": "映画『ゆるキャン△』",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://kimetsu.com/anime/mugenresshahen_movie/",
+                    "urlName": "劇場版「鬼滅の刃」 無限列車編",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://planetarian-project.com/",
+                    "urlName": "planetarian～星の人～",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://penguin-highway.com/",
+                    "urlName": "penguin highway",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://project-blackfox.jp/",
+                    "urlName": "BLACKFOX",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0808506/",
+                    "urlName": "時をかける少女",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://joseetora.jp/",
+                    "urlName": "ジョゼと虎と魚たち",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://shirobako-movie.com/",
+                    "urlName": "劇場版『SHIROBAKO』",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.ghibli.jp/works/ponyo/",
+                    "urlName": "Ponyo (15th Anniversary)",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "http://nonnontv.com/movie/",
+                    "urlName": "Non Non Biyori: Vacation",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://cinema.revuestarlight.com/",
+                    "urlName": "少女☆歌劇 レヴュースタァライト",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "http://miabyss.com/movie/index.html#1",
+                    "urlName": "メイドインアビス 深き魂の黎明",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://pripri-anime.jp/",
+                    "urlName": "Princess Principal: Crown Handler [Chapters 1, 2]",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://suzume-tojimari-movie.jp/",
+                    "urlName": "すずめの戸締まり",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.thesupermariobros.movie/",
+                    "urlName": "The Super Mario Bros. Movie",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.ghibli.jp/works/totoro",
+                    "urlName": "My Neighbor Totoro (35th Anniversary)",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://kimetsu.com/anime/worldtour2023/",
+                    "urlName": "「鬼滅の刃」上弦集結、そして刀鍛冶の里へ",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://sao-p.net/",
+                    "urlName": "ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://movie.ten-sura.com/",
+                    "urlName": "転生したらスライムだった件 紅蓮の絆編",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/media/md2537",
+                    "urlName": "九色鹿",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.onepiece-film.jp/",
+                    "urlName": "One Piece Film: Red",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://jujutsukaisen-movie.jp/",
+                    "urlName": "Jujutsu Kaisen 0",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://2022dbs.com/",
+                    "urlName": "Dragon Ball Super: Super Hero",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://tenkinoko.com/",
+                    "urlName": "天気の子",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt8092118/",
+                    "urlName": "Fate Stay Night Heaven's Feel III - Spring Song",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "http://movie3.anime-eupho.com/",
+                    "urlName": "劇場版 響け！ユーフォニアム～誓いのフィナーレ～",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/uranohoshi/sp_5thlive.php",
+                    "urlName": "Love Live Sunshine - Aquors 5th Lovelive ~ Next Sparking ~",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt9826484/",
+                    "urlName": "Trinity Seven: Heavens Library & Crimson Lord",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt10068158/",
+                    "urlName": "Made in Abyss - Journey's Dawn",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=xXmHXc40Q8c",
+                    "urlName": "Initial D Part 3",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.youtube.com/watch?v=xXmHXc40Q8c",
+                    "urlName": "Initial D Parts 1 & 2",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/uranohoshi/sp_uc.php",
+                    "urlName": "Love Live Sunshine - Hakodate Unit Carnival",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/uranohoshi/sp_3rdlive.php",
+                    "urlName": "Love Live Sunshine - Aquors 3rd Lovelive ~ Wonderful Stories ~",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt8091892/",
+                    "urlName": "Fate Stay Night Heaven's Feel II - Lost Butterfly",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "http://liz-bluebird.com/",
+                    "urlName": "リズと青い鳥",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.nanoha.com/archive6/",
+                    "urlName": "魔法少女リリカルなのはReflection",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "http://www.hanasakuiroha.jp/",
+                    "urlName": "Hanasaku Iroha the Movie: Home Sweet Home",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://promare-movie.com/",
+                    "urlName": "Promare",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.lovelive-anime.jp/uranohoshi/sp_2ndlive.php",
+                    "urlName": "Love Live Sunshine - Aquors 2nd Lovelive ~ Happy Party Train Tour ~",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://twitter.com/AzolandPictures/status/1028071847777075200",
+                    "urlName": "Bang Dream 5th Live - Roselia -Ewigkeit-",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://twitter.com/AzolandPictures/status/1028071847777075200",
+                    "urlName": "Bang Dream 5th Live - Poppin' Party Happy Party 2018!",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt4054952/",
+                    "urlName": "Fate Stay Night Heaven's Feel I - Presage Flower",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://anime.fate-go.jp/FirstOrder/",
+                    "urlName": "Fate/Grand Order ‐First Order‐",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.sonypictures.com/movies/kingsglaivefinalfantasyxv",
+                    "urlName": "KINGSGLAIVE: FINAL FANTASY XV",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0385700/",
+                    "urlName": "FINAL FANTASY VII ADVENT CHILDREN",
+                    "urlDescription": "✅ watched on DVD"
+                },
+                {
+                    "url": "http://www.tbs.co.jp/anime/k-on/k-on_mv/index-j.html",
+                    "urlName": "映画けいおん！",
+                    "urlDescription": "✅ watched online"
+                },
+                {
+                    "url": "https://www.ghibli.jp/works/howl/",
+                    "urlName": "Howl's Moving Castle",
+                    "urlDescription": "✅ watched in university"
+                },
+                {
+                    "url": "http://ookamikodomo.jp/",
+                    "urlName": "Wolf Children",
+                    "urlDescription": "✅ watched in university"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt2457282/",
+                    "urlName": "Puella Magi Madoka Magica: The Movie - Rebellion",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0403703/",
+                    "urlName": "Yu-Gi-Oh!: The Movie - Pyramid of Light",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.imdb.com/title/tt0345950/",
+                    "urlName": "The SpongeBob SquarePants Movie",
+                    "urlDescription": "✅ watched in theater"
+                },
+                {
+                    "url": "https://www.pokemon.com/us/pokemon-episodes/pokemon-movies/pokemon-destiny-deoxys-2005",
+                    "urlName": "Pokémon: Destiny Deoxys",
+                    "urlDescription": "✅ watched on DVD"
+                },
+                {
+                    "url": "https://www.pokemon.com/us/pokemon-episodes/pokemon-movies/jirachi-wish-maker-2004",
+                    "urlName": "Jirachi: Wish Maker",
+                    "urlDescription": "✅ watched on DVD"
+                },
+                {
+                    "url": "https://www.pokemon.com/us/pokemon-episodes/pokemon-movies/pokemon-the-movie-2000-2000",
+                    "urlName": "Pokémon the Movie 2000",
+                    "urlDescription": "✅ watched on VHS"
+                },
+                {
+                    "url": "https://www.pokemon.com/us/pokemon-episodes/pokemon-movies/pokemon-the-first-movie-1999",
+                    "urlName": "Pokémon: The First Movie",
+                    "urlDescription": "✅ watched on VHS"
+                }
+            ]
+        },
+        {
+            "name": "coursework queue",
+            "description": "✏️ courses and related tasks that i am taking for self-studies or are in queue",
+            "urls": [
+                {
+                    "url": "https://aws.amazon.com/certification/certified-developer-associate/",
+                    "urlName": "AWS Certified Developer - Associate",
+                    "urlDescription": "🔲 study guide: in-progress | 🔲 certification test: pending"
+                },
+                {
+                    "url": "https://learn.hashicorp.com/collections/terraform/certification",
+                    "urlName": "Terraform Associate Certification",
+                    "urlDescription": "🔲 study guide: in-progress (module 1/9) | 🔲 exam review: pending | 🔲 certification test: pending"
+                },
+                {
+                    "url": "https://www.udemy.com/course/aws-certified-developer-associate-exam-training/",
+                    "urlName": "AWS Certified Developer Associate Exam Training DVA-C01",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide/",
+                    "urlName": "Docker & Kubernetes: The Practical Guide",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.udemy.com/course/chinese-intermediate-2a/",
+                    "urlName": "Chinese Intermediate 2 - Everything in HSK 4",
+                    "urlDescription": "✅ Course A (course completed) | ✅ Course B (course completed) | ✅ Course C (course completed)"
+                },
+                {
+                    "url": "https://sensei.pixiv.net/",
+                    "urlName": "sensei by pixiv",
+                    "urlDescription": "✅ 人体 （コース 完了）| ✅  背景 （コース 完了） | ✅ キャラクター （コース 完了） | ✅ メイキン （コース 完了）"
+                },
+                {
+                    "url": "https://www.splunk.com/en_us/training/course-catalog.html",
+                    "urlName": "Splunk Courses",
+                    "urlDescription": "✅ Getting Data Into Splunk (course completed) | ✅ Using Fields (course completed) | ✅ Search Under the Hood (course completed) | ✅ Intro to Splunk (course completed) | ✅ Introduction to Dashboards (course completed)"
+                },
+                {
+                    "url": "https://learn.datadoghq.com/collections",
+                    "urlName": "Datadog Courses",
+                    "urlDescription": "✅ Datadog 201: Becoming a Power User (course completed) | ✅ Building Better Dashboards (course completed) | ✅ Datadog 101: Site Reliability Engineer (course completed) | ✅ Datadog 101: Developer (course completed) | ✅ Tagging Best Practices (course completed)"
+                },
+                {
+                    "url": "https://university.mongodb.com/courses/catalog",
+                    "urlName": "MongoDB University",
+                    "urlDescription": "✅ MongoDB for SQL Pros (course completed) | ✅ MongoDB Basics (course completed) | ✅ Diagnostic Thinking (course completed)"
+                },
+                {
+                    "url": "https://www.udemy.com/course/graphql-with-react-course/",
+                    "urlName": "GraphQL with React: The Complete Developers Guide",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.udemy.com/course/japanese-n3-course/",
+                    "urlName": "Online Japanese N3 Course",
+                    "urlDescription": "✅ course completed | ✅  grammar notes completed | ✅ vocab notes completed"
+                },
+                {
+                    "url": "https://www.udemy.com/course/serverless-using-aws-lambda-for-python-developers/",
+                    "urlName": "Serverless using AWS Lambda for Python Developers",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/learn-advanced-python",
+                    "urlName": "Learn Advanced Python 3",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/discrete-math",
+                    "urlName": "Discrete Math",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/paths/design-databases-with-postgresql",
+                    "urlName": "Design Databases With PostgreSQL",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/learn-recursion-python",
+                    "urlName": "Learn Recursion with Python",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/paths/build-python-web-apps-flask",
+                    "urlName": "Build Python Web Apps with Flask",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/linear-data-structures",
+                    "urlName": "Linear Data Structures",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/linear-data-structures",
+                    "urlName": "Learn Intermediate JavaScript",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/learn-intermediate-python-3",
+                    "urlName": "Learn Intermediate Python 3",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.duolingo.com/enroll/ja/en/Learn-Japanese",
+                    "urlName": "[Duolingo] - Japanese",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.duolingo.com/enroll/zh/en/Learn-Chinese",
+                    "urlName": "[Duolingo] - Chinese",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://aws.amazon.com/certification/certified-solutions-architect-associate/",
+                    "urlName": "AWS Solutions Architect - Associate",
+                    "urlDescription": "✅ certification test passed"
+                },
+                {
+                    "url": "https://learning.edx.org/course/course-v1:Microsoft+DAT215.1x+2T2018/home",
+                    "urlName": "Developing SQL Databases",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/sorting-algorithms",
+                    "urlName": "Learn Sorting Algorithms with Python",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://learning.edx.org/course/course-v1:StanfordOnline+SOM.Y0016+1T2020/home",
+                    "urlName": "Molecular Foundations of Medicine",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://www.codecademy.com/learn/complex-data-structures",
+                    "urlName": "Learn Complex Data Structures",
+                    "urlDescription": "✅ course completed"
+                },
+                {
+                    "url": "https://greentea.moe/#coursework",
+                    "urlName": "self-studies / coursework records",
+                    "urlDescription": "⭐ coursework and related certificates / verified completion"
+                }
+            ]
+        },
+        {
+            "name": "video games",
+            "description": "🎮 video games that i play and any available account ids; feel free to add me!",
+            "urls": [
+                {
+                    "url": "https://steamcommunity.com/id/senaonp",
+                    "urlName": "Steam",
+                    "urlDescription": "[user id: senaonp]"
+                },
+                {
+                    "url": "https://www.nintendo.com/switch/",
+                    "urlName": "Nintendo Switch",
+                    "urlDescription": "[friend code: SW-0572-4852-0518]"
+                },
+                {
+                    "url": "https://www.arknights.global/",
+                    "urlName": "Arknights",
+                    "urlDescription": "[user id: senaonp#6479] 🤝 supports: Sora (S2M3 LV80) | Ch'en the Holungday (S3M3 LV90) | Skadi the Corrupting Heart (S2M3 LV90)"
+                },
+                {
+                    "url": "https://gf.sunborngame.com/",
+                    "urlName": "Girls' Frontline",
+                    "urlDescription": "[user id: 1525389] 🤝supports: WA2000 | AK-12 | 100 Shiki | NZ75 | P90 ☀️ Negev | Type97 | IWS 2000 | Contender | ADS 🌙"
+                },
+                {
+                    "url": "https://act.hoyolab.com/app/community-game-records-sea/index.html?user_id=46630850#/ys",
+                    "urlName": "Genshin Impact",
+                    "urlDescription": "[user id: 606467361] 🤝 5★ characters: Hu Tao, Nahida, Raiden Shogun, Zhongli, Keqing, Kokomi, Klee, Jean, Diluc, Qiqi, Lumine"
+                },
+                {
+                    "url": "https://fire-emblem-heroes.com",
+                    "urlName": "Fire Emblem Heroes",
+                    "urlDescription": "[user id: 5901100183] 🤝 support: Sakura (LV. 40+10 | Dragonflower +20 | Stats: 49 50 40 35 43)"
+                },
+                {
+                    "url": "https://fate-go.us/",
+                    "urlName": "Fate Grand Order",
+                    "urlDescription": "[user id: 333046803] 🤝 5★ supports: 90 supports: Katsushika Hokusai (Foreigner) | Ryōgi Shiki (Saber) | Orion (Archer) | Scáthach (Lancer) | Medb (Rider) | Zhuge Liang (Caster) | Shuten Douji (Assassin) | Cú Chulainn (Berserker) | Okita Souji (Alter Ego)"
+                },
+                {
+                    "url": "https://mahjongsoul.game.yo-star.com/",
+                    "urlName": "MahjongSoul",
+                    "urlDescription": "[user id: 138450402 - username: senaonp]"
+                },
+                {
+                    "url": "https://global.touhoulostword.com/",
+                    "urlName": "Touhou LostWord",
+                    "urlDescription": "[username: senaonp]"
+                },
+                {
+                    "url": "https://bluearchive.nexon.com/home",
+                    "urlName": "Blue Archive",
+                    "urlDescription": "[username: senaonp]"
+                },
+                {
+                    "url": "http://greentea.moe/data/gaming/",
+                    "urlName": "⭐ Gaming Posts",
+                    "urlDescription": "gaming posts and statuses on personal website"
+                },
+                {
+                    "url": "http://greentea.moe/data/aggregate/video_games/",
+                    "urlName": "⭐ Gaming Archive",
+                    "urlDescription": "list of games i played on PC, console, and handheld systems"
+                }
+            ]
+        },
+        {
+            "name": "anime/game figures",
+            "description": "🔖 anime/game figure collection and wishlist",
+            "urls": [
+                {
+                    "urlName": "碧蓝航线 巴尔的摩 迅疾的蓝星Ver. 1/7 比例手办",
+                    "url": "https://www.apex-toy.com/productinfo/1849304.html",
+                    "urlDescription": "🟡 pre-ordered, pending release"
+                },
+                {
+                    "urlName": "TENITOL 博麗霊夢",
+                    "url": "https://fnex.jp/products/detail.php?product_id=389",
+                    "urlDescription": "🟡 pre-ordered, pending release"
+                },
+                {
+                    "urlName": "《汉服少女》映水芙蓉",
+                    "url": "https://www.apex-toy.com/productinfo/1424604.html",
+                    "urlDescription": "🟡 pre-ordered, pending release"
+                },
+                {
+                    "url": "https://furyu-hm.com/products/tnl-yhg2t5eh",
+                    "urlName": "TENITOL リリィ",
+                    "urlDescription": "🟡 pre-ordered, pending release"
+                },
+                {
+                    "url": "https://weibo.com/tv/show/1034:4895474247991352",
+                    "urlName": "明日方舟 温蒂 庆典时光 VER.",
+                    "urlDescription": "🟡 pre-ordered, pending release"
+                },
+                {
+                    "urlName": "TENITOL ぼっち・ざ・ろっく！ 後藤ひとり",
+                    "url": "https://www.hpoi.net/hobby/80692",
+                    "urlDescription": "🟡 pre-ordered, pending release"
+                },
+                {
+                    "url": "https://www.goodsmile.info/zh/product/11981/塗山蘇蘇+萬水依山Ver.html",
+                    "urlName": "塗山蘇蘇 萬水依山Ver.",
+                    "urlDescription": "🟠 pending delivery"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/11153/マルス.html",
+                    "urlName": "マルス",
+                    "urlDescription": "🟠 pending delivery"
+                },
+                {
+                    "urlName": "御建鸣神主尊大御所大人像",
+                    "url": "https://www.hpoi.net/hobby/81574",
+                    "urlDescription": "🟠 pending delivery"
+                },
+                {
+                    "urlName": "［迫る熱に押されて］キタサンブラック",
+                    "url": "https://www.kotobukiya.co.jp/product/detail/p4934054041190/",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/12415/Illustration+Revelation+彼岸の花嫁.html",
+                    "urlName": "Illustration Revelation 彼岸の花嫁",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://union-creative.jp/goods/detail/?id=526",
+                    "urlName": "カントク『セーラー服のまんなか』",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://www.neonmax.net/応瑞",
+                    "urlName": "応瑞",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://nocturne.ltd/products/categories/figure/f017002/",
+                    "urlName": "踊り子",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://www.first4figures.com/samus-light-suit-exclusive.html",
+                    "urlName": "Samus Light Suit Exclusive",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://weibo.com/7727488932/N3jL0FyIc",
+                    "urlName": "Asaki大人",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/11754/セイバー+葛飾北斎.html",
+                    "urlName": "セイバー/葛飾北斎",
+                    "urlDescription": "⚪ in wishlist"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/12749/ねんどろいど+カービィ+30th+Anniversary+Edition.html",
+                    "urlName": "ねんどろいど カービィ 30th Anniversary Edition",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/9801/初音ミク+MIKU+EXPO+5th+Anniv+Lucky+Orb+UTA+X+KASOKU+Ver.html",
+                    "urlName": "初音ミク MIKU EXPO 5th Anniv. / Lucky☆Orb: UTA X KASOKU Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "http://www.myethos.cn/Collection/view/id/160",
+                    "urlName": "明日方舟 史尔特尔 熔火 Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "http://www.ribose.net.cn/product257/detail529.html",
+                    "urlName": "RISE UP系列 偶像大师 梦见璃亚梦",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://medicos-e-shop.net/products/detail/10304",
+                    "urlName": "「失格紋の最強賢者」イリス 1/7スケールフィギュア",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/11468/モナ+星天水鏡Ver.html",
+                    "urlName": "モナ・星天水鏡Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://alter-web.jp/products/197/",
+                    "urlName": "プラフタ",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/9183/志摩リン.html",
+                    "urlName": "志摩リン",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/10720/.html",
+                    "urlName": "サーヴァントクラスカード+トレーディングフィギュア",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.apex-toy.com/productinfo/695555.html",
+                    "urlName": "明日方舟 陈 1/7比例涂装完成品手办",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://alter-web.jp/products/227/",
+                    "urlName": "乙倉 悠貴　カム・ウィズミー！Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/6651/加藤恵+水着Ver.html",
+                    "urlName": "加藤恵 水着Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.kotobukiya.co.jp/product/product-0000004026/",
+                    "urlName": "ARTFX J ユウリ with メッソン",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/9358/環いろは+浴衣Ver.html",
+                    "urlName": "環いろは 浴衣Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://licorne.co.jp/product/小日向美穂-ラブレターver/",
+                    "urlName": "小日向美穂 ラブレターVer.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/6474/ねんどろいど+博麗霊夢2+0.html",
+                    "urlName": "ねんどろいど 博麗霊夢2.0",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/7903/ねんどろいど+レグ.html",
+                    "urlName": "ねんどろいど レグ",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/6777/ねんどろいど+サクラ.html",
+                    "urlName": "ねんどろいど サクラ",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://fnex.jp/products/detail.php?product_id=170",
+                    "urlName": "鹿目まどか 晴着ver. 1/7スケールフィギュア",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.hpoi.net/hobby/57030",
+                    "urlName": "VOCALOID 星尘 Whisper of the Star Ver.",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "https://www.goodsmile.info/ja/product/10419/金甌永固杯.html",
+                    "urlName": "金甌永固杯",
+                    "urlDescription": "🟢 currently own"
+                },
+                {
+                    "url": "http://greentea.moe/data/aggregate/figures/",
+                    "urlName": "📝 current figure collection",
+                    "urlDescription": "data of all figures i currently own"
+                }
+            ]
+        },
+        {
+            "name": "语言资源",
+            "description": "📚 在线阅读",
+            "urls": [
+                {
+                    "urlName": "baidu贴吧",
+                    "url": "https://tieba.baidu.com",
+                    "urlDescription": "中文"
+                },
+                {
+                    "url": "https://www.kuaikanmanhua.com/",
+                    "urlName": "快看漫画",
+                    "urlDescription": "中文"
+                },
+                {
+                    "url": "https://zh.moegirl.org.cn",
+                    "urlName": "萌娘百科",
+                    "urlDescription": "中文"
+                },
+                {
+                    "url": "https://fanyi.youdao.com/",
+                    "urlName": "有道翻译",
+                    "urlDescription": "中文"
+                },
+                {
+                    "url": "https://gitee.com/explore",
+                    "urlName": "gitee",
+                    "urlDescription": "中文"
+                },
+                {
+                    "url": "https://game8.jp/",
+                    "urlName": "Game8",
+                    "urlDescription": "日本語"
+                },
+                {
+                    "url": "https://atwiki.jp/",
+                    "urlName": "@wiki",
+                    "urlDescription": "日本語"
+                },
+                {
+                    "url": "https://tatoeba.org/en/sentences/search?from=cmn&sort=random&rand_seed=azYz",
+                    "urlName": "tatoeba",
+                    "urlDescription": "中文"
+                },
+                {
+                    "url": "https://tatoeba.org/en/sentences/search?from=jpn&sort=random&rand_seed=9Ahu",
+                    "urlName": "tatoeba",
+                    "urlDescription": "日本語"
+                }
+            ]
+        },
+        {
+            "name": "music",
+            "description": "🎵 music collection",
+            "urls": [
+                {
+                    "url": "https://neets.tokyo/",
+                    "urlName": "Active NEETs",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://monster-siren.hypergryph.com/",
+                    "urlName": "Monster Siren Records",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/playlist?list=PLdni05PnuscvEM17RtWoy1jraPhumpdjV",
+                    "urlName": "原神OST",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/@lovelive_series/playlists",
+                    "urlName": "Love Live!（ラブライブ！）",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://bang-dream.com/discographies",
+                    "urlName": "BanG Dream!（バンドリ！）",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://columbia.jp/idolmaster/",
+                    "urlName": "アイドルマスター (THE IDOLM@STER)",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "http://fg-eclipse.net/discography.html",
+                    "urlName": "Foreground Eclipse",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://shibayan.booth.pm/",
+                    "urlName": "TOHO BOSSA NOVA",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "http://www.tano-c.net/release/",
+                    "urlName": "HARDCORE TANO*C",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://ukf.com/",
+                    "urlName": "UKF (Drum & Bass)",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://ocremix.org/",
+                    "urlName": "OverClocked ReMix",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/playlist?list=PL8374E0B3065F98C1",
+                    "urlName": "CHIPTUNES",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://music.apple.com/us/album/ネプテューヌ-the-greatest/1535726739",
+                    "urlName": " Neptune the Greatest!",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://archive.org/details/f-zero-gx-and-ax-original-soundtracks",
+                    "urlName": "F-ZERO GX/AX Original Soundtracks",
+                    "urlDescription": ""
+                },
+                {
+                    "urlName": "Metroid Metal",
+                    "url": "http://www.metroidmetal.com/songs/",
+                    "urlDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "pixiv favorites",
+            "description": "❤️ favorite artworks on pixiv",
+            "urls": [
+                {
+                    "urlName": "東方紅魔郷",
+                    "url": "https://www.pixiv.net/artworks/110011602",
+                    "urlDescription": "artist: 羽々斬"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/108265037",
+                    "urlName": "【安価】人物単体イラスト【配信用】",
+                    "urlDescription": "artist: 榎本 尚"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/108134211",
+                    "urlName": "🌸🌸🌸",
+                    "urlDescription": "artist: MISSILE228"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/102677733",
+                    "urlName": "踊り子ちゃん",
+                    "urlDescription": "artist: ももこ"
+                },
+                {
+                    "urlName": "トッポッキ",
+                    "url": "https://www.pixiv.net/artworks/104951362",
+                    "urlDescription": "artist: ふわり"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/104836154",
+                    "urlName": "無題",
+                    "urlDescription": "artist: 星井やな"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/101147767",
+                    "urlName": "キャミ×デニム×キタサト",
+                    "urlDescription": "artist: MAY9（メイキュウ）"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/81387510",
+                    "urlName": "巫女さん",
+                    "urlDescription": "artist: ずいま"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/99864735",
+                    "urlName": "モンク_オリジナル　FF14",
+                    "urlDescription": "artist: ヒエラポリスとパムッカレ"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/87856817",
+                    "urlName": "記念撮影『 萌殺す九尾（ナインテイルズ）』",
+                    "urlDescription": "artist: ぼし"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/99874484",
+                    "urlName": "Lycoris",
+                    "urlDescription": "artist: NEKO♨ RE.TH"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/91872517",
+                    "urlName": "水着華扇ちゃとナイトプール",
+                    "urlDescription": "artist: ぐりこげ"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/96831637",
+                    "urlName": "闇黒·地雷系·スマートファルコン",
+                    "urlDescription": "artist: HMaX"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/101959411",
+                    "urlName": "木苺（ラズベリー）ちゃん♡",
+                    "urlDescription": "artist: 藤真拓哉"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/100231476",
+                    "urlName": "夏！！",
+                    "urlDescription": "artist: あきぺこ"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/61930743",
+                    "urlName": "和洋折衷ライブラリー",
+                    "urlDescription": "artist: 藤ちょこ（藤原）"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/59452194",
+                    "urlName": "和装少女❀",
+                    "urlDescription": "artist: Mika Pikazo"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/99217534",
+                    "urlName": "めいちゃん",
+                    "urlDescription": "artist: にんげんまめ"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/69276878",
+                    "urlName": "こるちゃんすき",
+                    "urlDescription": "artist: べにたま"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/91745453",
+                    "urlName": "永遠の少女",
+                    "urlDescription": "artist: Rumoon"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/87706177",
+                    "urlName": "食事はちゃんと取らないと！",
+                    "urlDescription": "artist: 葎"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/59813504",
+                    "urlName": "タイツJK",
+                    "urlDescription": "artist: アマガイタロー"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/98229452",
+                    "urlName": "キャンプデート",
+                    "urlDescription": "artist: カントク"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/97937395",
+                    "urlName": "5周年！",
+                    "urlDescription": "artist: カントク"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/62729688",
+                    "urlName": "COMITIA120",
+                    "urlDescription": "artist: りも 🍼"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/64739851",
+                    "urlName": "「お兄ちゃんやってぇ、こいつこ◯せない！」",
+                    "urlDescription": "artist: かぷりちお"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/83635811",
+                    "urlName": "ぴえん’ｓ",
+                    "urlDescription": "artist: がおう"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/92750322",
+                    "urlName": "美遊",
+                    "urlDescription": "artist: あらた"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/92019776",
+                    "urlName": "ウォーターソード",
+                    "urlDescription": "artist: 室埴 ポコ"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/86324837",
+                    "urlName": "やわらかロングレンジちゃん",
+                    "urlDescription": "artist: 深井涼介"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/87977950",
+                    "urlName": "猫の日",
+                    "urlDescription": "artist: 荻pote"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/92246326",
+                    "urlName": "❤",
+                    "urlDescription": "artist: OvO"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/96629436",
+                    "urlName": "何处惹尘埃",
+                    "urlDescription": "artist: BODHI"
+                },
+                {
+                    "url": "https://www.pixiv.net/artworks/96123492",
+                    "urlName": "ソラ",
+                    "urlDescription": "artist: ひげ猫"
+                },
+                {
+                    "urlName": "Azur lane",
+                    "url": "https://www.pixiv.net/artworks/67542465",
+                    "urlDescription": "artist: kieed"
+                },
+                {
+                    "urlName": "助手のほっぺは美味しそう",
+                    "url": "https://www.pixiv.net/artworks/62614866",
+                    "urlDescription": "artist: ランスさん"
+                },
+                {
+                    "urlName": "すみません、通行止めでーす💦",
+                    "url": "https://www.pixiv.net/artworks/69888384",
+                    "urlDescription": "artist: ぐれもす"
+                },
+                {
+                    "urlName": "コマンドカードパーカー",
+                    "url": "https://www.pixiv.net/artworks/63472776",
+                    "urlDescription": "artist: 咲良ゆき /사쿠라 유키"
+                },
+                {
+                    "urlName": "酒呑童子",
+                    "url": "https://www.pixiv.net/artworks/72049006",
+                    "urlDescription": "artist: Hitsu"
+                },
+                {
+                    "urlName": "さとりちゃん",
+                    "url": "https://www.pixiv.net/artworks/50240230",
+                    "urlDescription": "artist: konomi★きのこのみ"
+                },
+                {
+                    "urlName": "桜ミク",
+                    "url": "https://www.pixiv.net/artworks/47560048",
+                    "urlDescription": "artist: Nardack"
+                },
+                {
+                    "urlName": "海で会おう",
+                    "url": "https://www.pixiv.net/artworks/89478080",
+                    "urlDescription": "artist: Anmi@画集発売中"
+                }
+            ]
+        },
+        {
+            "name": "哔哩哔哩",
+            "description": "📺 favorite videos on bilibili",
+            "urls": [
+                {
+                    "url": "https://www.bilibili.com/video/BV1iu411W7nn/",
+                    "urlName": "函数",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1D24y1B7FA/",
+                    "urlName": "【高清回放】泠鸢个人演唱会【时光标记】十周年纪念-高清全程回放",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1Pg411s72k/",
+                    "urlName": "《明日方舟》SideStory「登临意」活动先导PV",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/bangumi/play/ep706666",
+                    "urlName": "小妖怪的夏天",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV17d4y1k7AY",
+                    "urlName": "纳西妲：记住你了！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1nd4y1B7TP",
+                    "urlName": "【原神】指弹！这奥摩斯港有点不对劲……",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV17Y4y1w7jQ",
+                    "urlName": "🐟",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/festival/2021bnj?bvid=BV14N411d74v",
+                    "urlName": "高ping战士【2021拜年纪单品】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1yA411T7YH",
+                    "urlName": "⚡⚡两只老虎爱电舞⚡⚡",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1js411S7bK",
+                    "urlName": "喵帕斯喵一喵",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1uf4y1p7Pe",
+                    "urlName": "【SDARK】万代MG能天使+修补型 我就是高达！EXIA目标驱逐！【机动战士高达00 万代MG EXIA 高达模型刻线喷涂加灯改造制作分享】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1y64y1q757",
+                    "urlName": "《黑神话：悟空》12分钟UE5实机测试集锦",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1Kq4y1d7XF",
+                    "urlName": "《光》",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1oR4y1p7ws",
+                    "urlName": "【Bison仓鼠】12月20日直播录像（旗袍月兮）",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1dR4y137vn",
+                    "urlName": "【粘土手办】龙族 上杉绘梨衣 超轻粘土手办制作，谁家的小怪兽",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1wU4y1F7XL",
+                    "urlName": "【洛天依】《Time to Shine》——北京冬奥会文化节开幕式",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1Qq4y1C7W1",
+                    "urlName": "30天！制作出1：1等身可动云堇！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1nL411x7jH",
+                    "urlName": "【硬件科普】带你认识CPU第00期——什么是MOSFET",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1iF411s7vc",
+                    "urlName": "《明日方舟：终末地》概念CG",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1P441117BS",
+                    "urlName": "乌 萨 斯 之 舞 【明日方舟】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1bT4y1E7bU",
+                    "urlName": "鲨鱼全力奔跑",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1yt4y1z7e1",
+                    "urlName": "【音游方舟】成为偶像战斗吧⭐SORA酱！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV18E411375u",
+                    "urlName": "【明日方舟】形象大使蔡徐坤",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1fy4y1C7gU",
+                    "urlName": "《原神》璃月音乐录制实拍视频",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1w5411A7Gc",
+                    "urlName": "愚人节跳鱼人舞",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1Jw411f73H",
+                    "urlName": "【原神描改OP】魔 法 少 女 荧",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1bF411e79z",
+                    "urlName": "太好听了吧！简直就是天籁！！！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1vT4y1R7D8",
+                    "urlName": "《明日方舟》SideStory「长夜临光」活动先导PV",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1rS4y1k71Z",
+                    "urlName": "听说只要奶、蛋、面粉，你就能拥有一只皮卡丘。",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/festival/2022bnj?bvid=BV1da411178m",
+                    "urlName": "新春小记【2022拜年纪单品】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1Th411k7bi",
+                    "urlName": "【泠鸢·单人】只存在于录音中的RAP《吉祥话》单人版",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1XA4y1S7Sb",
+                    "urlName": "罗德岛唱歌比赛！G组！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1GT41157jA",
+                    "urlName": "【粘土手作】来和七海小天使贴贴～「弹丸论破」「七海千秋」",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1bv411n7yN",
+                    "urlName": "（ 无 名 英 雄 ）",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1w5411A7Gc",
+                    "urlName": "愚人节跳鱼人舞",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1xT4y1B7gg",
+                    "urlName": "《绝区零》首曝PV | 世界全剧终，欢迎来到新艾利都",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1ot41127e6",
+                    "urlName": "【泠鸢/小野道】恋爱语音导航【原创】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.bilibili.com/video/BV1tZ4y157Qf",
+                    "urlName": "【泠鸢翻唱&三渲二MMD动画 】我的悲伤是水做的（原创动作数据配布）",
+                    "urlDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "ニコニコ",
+            "description": "📺 favorite videos on nicovideo",
+            "urls": [
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm41998165",
+                    "urlName": "Dome It Yourself!!",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm41615119",
+                    "urlName": "ロンリーワンダー",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm41205488",
+                    "urlName": "FLUFFY FISH",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm41044763",
+                    "urlName": "Dr.きゅうくらりん",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40833285",
+                    "urlName": "最終鬼畜なんか小さくてかわいいやつ・T【ちいかわ音MAD】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40744967",
+                    "urlName": "かすかすーっ！！！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40738555",
+                    "urlName": "ドドコDOKO DOKO DANCE",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40505816",
+                    "urlName": "スイーツ食べてすぐ太る～狂気のメジロマック院",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40434189",
+                    "urlName": "【合作】おとわっか",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40249086",
+                    "urlName": "#Kawaii' Junkies",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm1471168",
+                    "urlName": "アニメカービィ×こどものじかんED【手書き】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm40318498",
+                    "urlName": "撫でんな / 可不",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm28861451",
+                    "urlName": "カラフルれんちょん",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm37943946",
+                    "urlName": "ただいまーっ！！！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm25637875",
+                    "urlName": "わすれんぼ卯月",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm36556687",
+                    "urlName": "【メドレー合作】MILLION MIX MESSAGE【ミリオンライブ！】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39006980",
+                    "urlName": "Windows Dance",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm36415814",
+                    "urlName": "【アークナイツMAD】レインボークルース",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm35742741",
+                    "urlName": "リステ10話の珊瑚登場シーンでプリズムプレインズ",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39314546",
+                    "urlName": "ハルミルウララノ【ウマ娘×チルミルチルノ】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39286075",
+                    "urlName": " 準備はいいかねーっ！！！",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm37957925",
+                    "urlName": "Dr.かすみん",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39297526",
+                    "urlName": "走 り 屋 や ち よ",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39281177",
+                    "urlName": "ナットウ宣言",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm3913273",
+                    "urlName": "こなた達でアッーウッウッイネイネ【らき☆すたMIX】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm38840497",
+                    "urlName": "PluTwin TurbO",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm26581124",
+                    "urlName": "チャンピオンのアヤヤー",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm35713528",
+                    "urlName": "EMOMOMO",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm37198038",
+                    "urlName": "稲葉曇『ラグトレイン』Vo. 歌愛ユキ",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm29257127",
+                    "urlName": "【tilt×百舌谷】夜明け前のレゾナンス【オリジナルMV】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm35141360",
+                    "urlName": "【東方】オーケストラ生演奏による『地霊殿メドレー』 【交響アクティブNEETs】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm35189984",
+                    "urlName": "【鳴花ヒメ・ミコト】スペシャルガール【オリジナル】",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/series/88588",
+                    "urlName": "カオスなマギアレコード",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm9",
+                    "urlName": "新・豪血寺一族 -煩悩解放 - レッツゴー！陰陽師",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39848710",
+                    "urlName": "恋愛サーキュレーションでトキメキ☆ボムラッシュ",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.nicovideo.jp/watch/sm39153320",
+                    "urlName": "【手描き】放クラと283プロでダンベル何キロ持てる？OPパロ【完成版】",
+                    "urlDescription": ""
+                }
+            ]
+        },
+        {
+            "name": "content playlist",
+            "description": "🎞️ favorite playlist content on the internet",
+            "urls": [
+                {
+                    "url": "https://space.bilibili.com/1140086004/favlist",
+                    "urlName": "bilibili",
+                    "urlDescription": "personal playlists"
+                },
+                {
+                    "url": "https://www.nicovideo.jp/user/34703118/mylist",
+                    "urlName": "niconico",
+                    "urlDescription": "personal playlists"
+                },
+                {
+                    "url": "https://www.youtube.com/playlist?list=PLm_84xc7OSNxkZPAu_wB9MYJUPm7vlpzo",
+                    "urlName": "youtube",
+                    "urlDescription": "personal favorites playlist"
+                },
+                {
+                    "url": "https://www.youtube.com/playlist?list=PLYpy4kJmEo74vVqiBzNmxuT_cMQZP5NXs",
+                    "urlName": "「ラブライブ！虹ヶ咲学園スクールアイドル同好会」TVアニメ主題歌＆挿入歌映像 ",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://space.bilibili.com/3149619/video",
+                    "urlName": "有栖Mana_Official",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://space.bilibili.com/53456/video",
+                    "urlName": "Warma",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/c/ShizukaRinOfficial/playlists",
+                    "urlName": "Shizuka Rin Official",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/user/KIYOisGOD/playlists",
+                    "urlName": "キヨ。",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://space.bilibili.com/161775300/channel/seriesdetail?sid=1774529",
+                    "urlName": "《明日方舟》EP合集",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/@yoyovideoarchive/playlists",
+                    "urlName": " yoyovideoarchive ",
+                    "urlDescription": ""
+                },
+                {
+                    "url": "https://www.youtube.com/@WTTGlobal/playlists",
+                    "urlName": "World Table Tennis",
+                    "urlDescription": ""
+                }
+            ]
+        }
+    ]
+}

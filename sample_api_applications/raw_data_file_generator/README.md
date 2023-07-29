@@ -1,4 +1,4 @@
-# static website generator
+# raw data file generator
 
 ## generates JSON files with public information from a given list of usernames
 
