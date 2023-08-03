@@ -11,6 +11,8 @@ How to use:
 - run `script.py`
 - the html files should be generated in the set output directory
 
+A video demonstration is also available on: https://fbacarisas.xyz/video/#haihai_link_API_website_generator
+
 ------------------
 
 Available configurable variables:

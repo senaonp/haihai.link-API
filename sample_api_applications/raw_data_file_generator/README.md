@@ -11,6 +11,8 @@ How to use:
 - run `script.py`
 - the JSON files should be generated in the set output directory
 
+A video demonstration is also available on: https://fbacarisas.xyz/video/#haihai_link_API_raw_data_file_generator
+
 ------------------
 
 How JSON data is structured:
