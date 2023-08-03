@@ -8,6 +8,8 @@ users = ['senaonp', 'senaonpNian']
 
 # application logic
 def filterData(data):
+	if not data['valid']:
+		return data
 	del data['valid']
 	for item in data['collections']:
 		for attr in ['idx', 'public', 'updated']:
