@@ -27,7 +27,7 @@ def divType2(item):
 		urls.append(
 			f"""
 				<tr>
-					<td style='border: 2px solid rgb(50,50,50); padding: 5px'><a href='{url['url']}'>{url['url']}</a></td>
+					<td style='border: 2px solid rgb(50,50,50); padding: 5px'><a href='{url['url']}' target='_blank'>{url['url']}</a></td>
 					<td style='border: 2px solid rgb(50,50,50); padding: 5px'>{url['urlName']}</td>
 					<td style='border: 2px solid rgb(50,50,50); padding: 5px'>{url['urlDescription']}</td>
 				</tr>
