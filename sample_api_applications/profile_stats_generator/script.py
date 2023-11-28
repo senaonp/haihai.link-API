@@ -5,7 +5,6 @@ from api import getUserPublic
 from api import getUrlCountTotal, getUrlCountMap
 
 # other imports
-import sys
 import json
 from urllib.parse import urlparse
 
@@ -60,7 +59,7 @@ def getStats(user):
 for user in users:
 	stats = getStats(user)
 	print(f'generating file for {user}...')
-	datafile = open(f"{outputDir}/{user}.json", 'w+', encoding='utf-8')
+	datafile = open(f"{outputDir}/{user}.txt", 'w+', encoding='utf-8')
 	for stat in stats:
 		if isinstance(stat[1], list):
 			datafile.write(f"{stat[0]}:\n")
