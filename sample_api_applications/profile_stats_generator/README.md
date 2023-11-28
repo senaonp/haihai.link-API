@@ -2,6 +2,8 @@
 
 ## generates data points of user(s)' public profile
 
+<img src="./img/preview.JPG" width="100%" height="auto">
+
 ------------------
 
 How data is structured:
