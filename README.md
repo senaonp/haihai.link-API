@@ -1,8 +1,31 @@
 # haihai.link-API
 programmatically access [haihai.link](https://haihai.link)
 
+-----
+
+## includes example API applications
+
+### generate website files from public profile data
+- https://github.com/senaonp/haihai.link-API/tree/main/sample_api_applications/static_website_generator
+
+<img src="./static_website_generator/img/preview.JPG" width="100%" height="auto">
+
+### get raw public profile data
+- https://github.com/senaonp/haihai.link-API/tree/main/sample_api_applications/raw_data_file_generator
+
+<img src="./raw_data_file_generator/img/preview.JPG" width="100%" height="auto">
+
+### get stats on public profile data
+- https://github.com/senaonp/haihai.link-API/tree/main/sample_api_applications/profile_stats_generator
+
+<img src="./profile_stats_generator/img/preview.JPG" width="100%" height="auto">
+
+-----
+
 ## configuration:
 [only required if accessing all data for a specified user] - to setup account configuration for API access, set credentials in [api_config.py](https://github.com/senaonp/haihai.link-API/blob/main/api_config.py#L3-L4)
+
+-----
 
 ## how to use:
 
@@ -19,6 +42,8 @@ There are 2 ways to access data in the API:
     - call `initializeSession()` to start an API session
     - do stuff
     - call `endSession()` to end the API session
+
+-----
 
 ## examples:
 
