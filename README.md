@@ -8,17 +8,17 @@ programmatically access [haihai.link](https://haihai.link)
 ### generate website files from public profile data
 - https://github.com/senaonp/haihai.link-API/tree/main/sample_api_applications/static_website_generator
 
-<img src="./static_website_generator/img/preview.JPG" width="100%" height="auto">
+<img src="./sample_api_applications/static_website_generator/img/preview.JPG" width="100%" height="auto">
 
 ### get raw public profile data
 - https://github.com/senaonp/haihai.link-API/tree/main/sample_api_applications/raw_data_file_generator
 
-<img src="./raw_data_file_generator/img/preview.JPG" width="100%" height="auto">
+<img src="./sample_api_applications/raw_data_file_generator/img/preview.JPG" width="100%" height="auto">
 
 ### get stats on public profile data
 - https://github.com/senaonp/haihai.link-API/tree/main/sample_api_applications/profile_stats_generator
 
-<img src="./profile_stats_generator/img/preview.JPG" width="100%" height="auto">
+<img src="./sample_api_applications/profile_stats_generator/img/preview.JPG" width="100%" height="auto">
 
 -----
 
